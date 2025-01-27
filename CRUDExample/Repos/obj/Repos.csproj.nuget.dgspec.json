@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\Repos\\Repos.csproj": {}
+  },
+  "projects": {
+    "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\mtaha\\.nuget\\packages\\",
+        "outputPath": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mtaha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\RepoCon\\RepoCon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\RepoCon\\RepoCon.csproj",
+        "projectName": "RepoCon",
+        "projectPath": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\RepoCon\\RepoCon.csproj",
+        "packagesPath": "C:\\Users\\mtaha\\.nuget\\packages\\",
+        "outputPath": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\RepoCon\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mtaha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\Repos\\Repos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\Repos\\Repos.csproj",
+        "projectName": "Repos",
+        "projectPath": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\Repos\\Repos.csproj",
+        "packagesPath": "C:\\Users\\mtaha\\.nuget\\packages\\",
+        "outputPath": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\Repos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mtaha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\RepoCon\\RepoCon.csproj": {
+                "projectPath": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\RepoCon\\RepoCon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

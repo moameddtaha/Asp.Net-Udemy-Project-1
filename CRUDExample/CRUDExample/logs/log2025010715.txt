@@ -1,0 +1,4 @@
+2025-01-07 15:00:01.226 +02:00 [INF] PersonsListActionFilter.OnActionExecuted method
+2025-01-07 15:00:01.257 +02:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync method - after
+2025-01-07 15:00:01.258 +02:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync method - after
+2025-01-07 15:00:01.260 +02:00 [INF] ResponseHeaderActionFilter.OnActionExecutionAsync method - after

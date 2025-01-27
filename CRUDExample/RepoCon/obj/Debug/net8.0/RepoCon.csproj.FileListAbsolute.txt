@@ -1,0 +1,615 @@
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository2\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository2\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository2\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository2\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Repository\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Mock Repository\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Mock Repository\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Mock Repository\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Mock Repository\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Mock Repository\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Mock Repository\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Mock Repository\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Mock Repository\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Mock Repository\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Mock Repository\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Mock Repository\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Mock Repository\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Mock Repository\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Mock Repository\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Mock Repository\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Controller Unit Test\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Controller Unit Test\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Controller Unit Test\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Controller Unit Test\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Controller Unit Test\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Controller Unit Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Controller Unit Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Controller Unit Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Controller Unit Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Controller Unit Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Controller Unit Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Controller Unit Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Controller Unit Test\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Controller Unit Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Controller Unit Test\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+C:\Users\mtaha\OneDrive\Desktop\Controller Unit Test\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+C:\Users\mtaha\OneDrive\Desktop\Controller Unit Test\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+C:\Users\mtaha\OneDrive\Desktop\Controller Unit Test\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+C:\Users\mtaha\OneDrive\Desktop\Controller Unit Test\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+C:\Users\mtaha\OneDrive\Desktop\Controller Unit Test\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+C:\Users\mtaha\OneDrive\Desktop\Controller Unit Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+C:\Users\mtaha\OneDrive\Desktop\Controller Unit Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtaha\OneDrive\Desktop\Controller Unit Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+C:\Users\mtaha\OneDrive\Desktop\Controller Unit Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+C:\Users\mtaha\OneDrive\Desktop\Controller Unit Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+C:\Users\mtaha\OneDrive\Desktop\Controller Unit Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+C:\Users\mtaha\OneDrive\Desktop\Controller Unit Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+C:\Users\mtaha\OneDrive\Desktop\Controller Unit Test\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+C:\Users\mtaha\OneDrive\Desktop\Controller Unit Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+C:\Users\mtaha\OneDrive\Desktop\Controller Unit Test\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+C:\Users\mtaha\OneDrive\Desktop\Integration Test\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+C:\Users\mtaha\OneDrive\Desktop\Integration Test\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+C:\Users\mtaha\OneDrive\Desktop\Integration Test\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+C:\Users\mtaha\OneDrive\Desktop\Integration Test\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+C:\Users\mtaha\OneDrive\Desktop\Integration Test\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+C:\Users\mtaha\OneDrive\Desktop\Integration Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+C:\Users\mtaha\OneDrive\Desktop\Integration Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtaha\OneDrive\Desktop\Integration Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+C:\Users\mtaha\OneDrive\Desktop\Integration Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+C:\Users\mtaha\OneDrive\Desktop\Integration Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+C:\Users\mtaha\OneDrive\Desktop\Integration Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+C:\Users\mtaha\OneDrive\Desktop\Integration Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+C:\Users\mtaha\OneDrive\Desktop\Integration Test\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+C:\Users\mtaha\OneDrive\Desktop\Integration Test\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+C:\Users\mtaha\OneDrive\Desktop\Integration Test\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+C:\Users\mtaha\OneDrive\Desktop\Integration Test with Response Body\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+C:\Users\mtaha\OneDrive\Desktop\Integration Test with Response Body\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+C:\Users\mtaha\OneDrive\Desktop\Integration Test with Response Body\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+C:\Users\mtaha\OneDrive\Desktop\Integration Test with Response Body\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+C:\Users\mtaha\OneDrive\Desktop\Integration Test with Response Body\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+C:\Users\mtaha\OneDrive\Desktop\Integration Test with Response Body\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+C:\Users\mtaha\OneDrive\Desktop\Integration Test with Response Body\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtaha\OneDrive\Desktop\Integration Test with Response Body\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+C:\Users\mtaha\OneDrive\Desktop\Integration Test with Response Body\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+C:\Users\mtaha\OneDrive\Desktop\Integration Test with Response Body\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+C:\Users\mtaha\OneDrive\Desktop\Integration Test with Response Body\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+C:\Users\mtaha\OneDrive\Desktop\Integration Test with Response Body\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+C:\Users\mtaha\OneDrive\Desktop\Integration Test with Response Body\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+C:\Users\mtaha\OneDrive\Desktop\Integration Test with Response Body\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+C:\Users\mtaha\OneDrive\Desktop\Integration Test with Response Body\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Integration Test with Response Body\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Integration Test with Response Body\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Integration Test with Response Body\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Integration Test with Response Body\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Integration Test with Response Body\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Integration Test with Response Body\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Integration Test with Response Body\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Integration Test with Response Body\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Integration Test with Response Body\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Integration Test with Response Body\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Integration Test with Response Body\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Integration Test with Response Body\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Integration Test with Response Body\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Integration Test with Response Body\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Unit Testing (Advanced, Moq & Repository Pattern)\Integration Test with Response Body\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\ILogger 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\ILogger 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\ILogger 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\ILogger 2\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\ILogger 2\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\ILogger 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\ILogger 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\ILogger 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\ILogger 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\ILogger 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\ILogger 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\ILogger 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\ILogger 2\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\ILogger 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\ILogger 2\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Configuration 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Configuration 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Configuration 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Configuration 2\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Configuration 2\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Configuration 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Configuration 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Configuration 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Configuration 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Configuration 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Configuration 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Configuration 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Configuration 2\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Configuration 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Configuration 2\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Providers 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Providers 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Providers 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Providers 2\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Providers 2\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Providers 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Providers 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Providers 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Providers 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Providers 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Providers 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Providers 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Providers 2\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Providers 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Logging Providers 2\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\HTTP Logging 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\HTTP Logging 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\HTTP Logging 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\HTTP Logging 2\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\HTTP Logging 2\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\HTTP Logging 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\HTTP Logging 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\HTTP Logging 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\HTTP Logging 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\HTTP Logging 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\HTTP Logging 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\HTTP Logging 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\HTTP Logging 2\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\HTTP Logging 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\HTTP Logging 2\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Basics 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Basics 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Basics 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Basics 2\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Basics 2\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Basics 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Basics 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Basics 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Basics 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Basics 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Basics 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Basics 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Basics 2\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Basics 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Basics 2\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog File Sink 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog File Sink 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog File Sink 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog File Sink 2\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog File Sink 2\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog File Sink 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog File Sink 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog File Sink 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog File Sink 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog File Sink 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog File Sink 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog File Sink 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog File Sink 2\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog File Sink 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog File Sink 2\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Database Sink 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Database Sink 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Database Sink 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Database Sink 2\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Database Sink 2\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Database Sink 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Database Sink 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Database Sink 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Database Sink 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Database Sink 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Database Sink 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Database Sink 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Database Sink 2\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Database Sink 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Database Sink 2\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Seq 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Seq 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Seq 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Seq 2\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Seq 2\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Seq 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Seq 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Seq 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Seq 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Seq 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Seq 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Seq 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Seq 2\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Seq 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Seq 2\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog IDiagnosticContext 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog IDiagnosticContext 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog IDiagnosticContext 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog IDiagnosticContext 2\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog IDiagnosticContext 2\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog IDiagnosticContext 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog IDiagnosticContext 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog IDiagnosticContext 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog IDiagnosticContext 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog IDiagnosticContext 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog IDiagnosticContext 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog IDiagnosticContext 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog IDiagnosticContext 2\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog IDiagnosticContext 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog IDiagnosticContext 2\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Timings\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Timings\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Timings\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Timings\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Timings\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Timings\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Timings\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Timings\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Timings\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Timings\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Timings\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Timings\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Timings\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Timings\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Logging and Serilog\Serilog Timings\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Action Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Action Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Action Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Action Filter\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Action Filter\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Parameter Validation in Action Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Parameter Validation in Action Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Parameter Validation in Action Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Parameter Validation in Action Filter\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Parameter Validation in Action Filter\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Parameter Validation in Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Parameter Validation in Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Parameter Validation in Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Parameter Validation in Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Parameter Validation in Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Parameter Validation in Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Parameter Validation in Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Parameter Validation in Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Parameter Validation in Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Parameter Validation in Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\ViewData in Action Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\ViewData in Action Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\ViewData in Action Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\ViewData in Action Filter\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\ViewData in Action Filter\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\ViewData in Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\ViewData in Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\ViewData in Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\ViewData in Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\ViewData in Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\ViewData in Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\ViewData in Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\ViewData in Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\ViewData in Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\ViewData in Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Serilog Structured Logging\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Serilog Structured Logging\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Serilog Structured Logging\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Serilog Structured Logging\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Serilog Structured Logging\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Serilog Structured Logging\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Serilog Structured Logging\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Serilog Structured Logging\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Serilog Structured Logging\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Serilog Structured Logging\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Serilog Structured Logging\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Serilog Structured Logging\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Serilog Structured Logging\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Serilog Structured Logging\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Serilog Structured Logging\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Arguments\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Arguments\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Arguments\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Arguments\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Arguments\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Arguments\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Arguments\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Arguments\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Arguments\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Arguments\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Arguments\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Arguments\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Arguments\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Arguments\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Arguments\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Global Filters\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Global Filters\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Global Filters\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Global Filters\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Global Filters\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Global Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Global Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Global Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Global Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Global Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Global Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Global Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Global Filters\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Global Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Global Filters\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Custom Order of Filters\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Custom Order of Filters\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Custom Order of Filters\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Custom Order of Filters\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Custom Order of Filters\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Custom Order of Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Custom Order of Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Custom Order of Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Custom Order of Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Custom Order of Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Custom Order of Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Custom Order of Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Custom Order of Filters\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Custom Order of Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Custom Order of Filters\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IOrderFilter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IOrderFilter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IOrderFilter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IOrderFilter\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IOrderFilter\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IOrderFilter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IOrderFilter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IOrderFilter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IOrderFilter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IOrderFilter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IOrderFilter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IOrderFilter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IOrderFilter\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IOrderFilter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IOrderFilter\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Async Filters\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Async Filters\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Async Filters\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Async Filters\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Async Filters\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Async Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Async Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Async Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Async Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Async Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Async Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Async Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Async Filters\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Async Filters\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Async Filters\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Short Circuiting Action Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Short Circuiting Action Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Short Circuiting Action Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Short Circuiting Action Filter\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Short Circuiting Action Filter\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Short Circuiting Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Short Circuiting Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Short Circuiting Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Short Circuiting Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Short Circuiting Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Short Circuiting Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Short Circuiting Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Short Circuiting Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Short Circuiting Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Short Circuiting Action Filter\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Result Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Result Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Result Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Result Filter\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Result Filter\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Result Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Result Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Result Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Result Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Result Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Result Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Result Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Result Filter\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Result Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Result Filter\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Resource Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Resource Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Resource Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Resource Filter\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Resource Filter\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Resource Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Resource Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Resource Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Resource Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Resource Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Resource Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Resource Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Resource Filter\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Resource Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Resource Filter\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Authorization Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Authorization Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Authorization Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Authorization Filter\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Authorization Filter\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Authorization Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Authorization Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Authorization Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Authorization Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Authorization Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Authorization Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Authorization Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Authorization Filter\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Authorization Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Authorization Filter\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Exception Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Exception Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Exception Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Exception Filter\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Exception Filter\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Exception Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Exception Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Exception Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Exception Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Exception Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Exception Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Exception Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Exception Filter\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Exception Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Exception Filter\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Impact of Short Circuiting\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Impact of Short Circuiting\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Impact of Short Circuiting\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Impact of Short Circuiting\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Impact of Short Circuiting\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Impact of Short Circuiting\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Impact of Short Circuiting\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Impact of Short Circuiting\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Impact of Short Circuiting\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Impact of Short Circuiting\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Impact of Short Circuiting\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Impact of Short Circuiting\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Impact of Short Circuiting\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Impact of Short Circuiting\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Impact of Short Circuiting\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IAwlwaysRunResultFilter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IAwlwaysRunResultFilter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IAwlwaysRunResultFilter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IAwlwaysRunResultFilter\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IAwlwaysRunResultFilter\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IAwlwaysRunResultFilter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IAwlwaysRunResultFilter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IAwlwaysRunResultFilter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IAwlwaysRunResultFilter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IAwlwaysRunResultFilter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IAwlwaysRunResultFilter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IAwlwaysRunResultFilter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IAwlwaysRunResultFilter\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IAwlwaysRunResultFilter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IAwlwaysRunResultFilter\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\FilterOverrides\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\FilterOverrides\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\FilterOverrides\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\FilterOverrides\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\FilterOverrides\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\FilterOverrides\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\FilterOverrides\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\FilterOverrides\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\FilterOverrides\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\FilterOverrides\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\FilterOverrides\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\FilterOverrides\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\FilterOverrides\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\FilterOverrides\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\FilterOverrides\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Service Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Service Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Service Filter\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Service Filter\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Service Filter\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Service Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Service Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Service Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Service Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Service Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Service Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Service Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Service Filter\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Service Filter\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Service Filter\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Attribute Classes\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Attribute Classes\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Attribute Classes\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Attribute Classes\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Attribute Classes\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Attribute Classes\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Attribute Classes\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Attribute Classes\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Attribute Classes\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Attribute Classes\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Attribute Classes\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Attribute Classes\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Attribute Classes\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Attribute Classes\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Filter Attribute Classes\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IFilterFactory\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IFilterFactory\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IFilterFactory\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IFilterFactory\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IFilterFactory\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IFilterFactory\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IFilterFactory\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IFilterFactory\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IFilterFactory\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IFilterFactory\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IFilterFactory\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IFilterFactory\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IFilterFactory\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IFilterFactory\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\IFilterFactory\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 1\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 1\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 1\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 1\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 1\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 1\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 1\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 1\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 1\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 1\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 1\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 1\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 1\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 1\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 1\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 2\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 2\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 2\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 2\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 2\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\UI Enhancements - Part 2\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Configure Services Extension\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Configure Services Extension\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Configure Services Extension\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Configure Services Extension\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Configure Services Extension\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Configure Services Extension\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Configure Services Extension\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Configure Services Extension\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Configure Services Extension\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Configure Services Extension\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Configure Services Extension\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Configure Services Extension\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Configure Services Extension\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Configure Services Extension\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Configure Services Extension\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll

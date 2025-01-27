@@ -1,0 +1,34 @@
+2025-01-08 14:49:48.697 +02:00 [INF] User profile is available. Using 'C:\Users\mtaha\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-01-08 14:49:48.889 +02:00 [INF] Now listening on: http://localhost:5014
+2025-01-08 14:49:49.566 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5014/ - null null
+2025-01-08 14:49:49.654 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+2025-01-08 14:49:49.674 +02:00 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Index (CRUDExample)'
+2025-01-08 14:49:49.721 +02:00 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Index (CRUDExample)'
+2025-01-08 14:49:49.725 +02:00 [INF] Response:
+StatusCode: 200
+2025-01-08 14:49:49.729 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No service for type 'CRUDExample.Filters.ResultFilters.PersonsListResultFilter' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.AspNetCore.Mvc.ServiceFilterAttribute.CreateInstance(IServiceProvider serviceProvider)
+   at Microsoft.AspNetCore.Mvc.Filters.DefaultFilterProvider.ProvideFilter(FilterProviderContext context, FilterItem filterItem)
+   at Microsoft.AspNetCore.Mvc.Filters.DefaultFilterProvider.OnProvidersExecuting(FilterProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Filters.FilterFactory.CreateUncachedFiltersCore(IFilterProvider[] filterProviders, ActionContext actionContext, List`1 filterItems)
+   at Microsoft.AspNetCore.Mvc.Filters.FilterFactory.GetAllFilters(IFilterProvider[] filterProviders, ActionContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-01-08 14:49:49.784 +02:00 [ERR] HTTP GET / responded 500 in 133.7219 ms
+2025-01-08 14:49:49.790 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5014/ - 500 null text/html; charset=utf-8 233.4334ms
+2025-01-08 14:49:49.824 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5014/_framework/aspnetcore-browser-refresh.js - null null
+2025-01-08 14:49:49.824 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5014/_vs/browserLink - null null
+2025-01-08 14:49:49.830 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5014/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 6.5255ms
+2025-01-08 14:49:49.871 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5014/_vs/browserLink - 200 null text/javascript; charset=UTF-8 46.7363ms
