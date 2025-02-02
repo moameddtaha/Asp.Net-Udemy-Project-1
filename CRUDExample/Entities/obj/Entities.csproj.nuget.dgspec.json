@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\Entities\\Entities.csproj": {}
+    "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\Entities\\Entities.csproj": {
+    "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\mtaha\\.nuget\\packages\\",
-        "outputPath": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mtaha\\AppData\\Roaming\\NuGet\\NuGet.Config",

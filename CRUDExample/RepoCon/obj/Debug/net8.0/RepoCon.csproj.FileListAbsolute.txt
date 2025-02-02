@@ -613,3 +613,19 @@ D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide
 D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Configure Services Extension\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
 D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Configure Services Extension\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
 D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Configure Services Extension\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.deps.json
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.dll
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\RepoCon\bin\Debug\net8.0\RepoCon.pdb
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.dll
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\RepoCon\bin\Debug\net8.0\Entities.pdb
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.AssemblyReference.cache
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfoInputs.cache
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.AssemblyInfo.cs
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.CoreCompileInputs.cache
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.sourcelink.json
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.csproj.Up2Date
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.dll
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\RepoCon\obj\Debug\net8.0\refint\RepoCon.dll
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\RepoCon\obj\Debug\net8.0\RepoCon.pdb
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\RepoCon\obj\Debug\net8.0\ref\RepoCon.dll

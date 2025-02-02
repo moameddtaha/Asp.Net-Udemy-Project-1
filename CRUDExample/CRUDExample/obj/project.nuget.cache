@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WruixoNPBYw=",
+  "dgSpecHash": "DtKyHXSRdYo=",
   "success": true,
-  "projectFilePath": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\CRUDExample\\CRUDExample.csproj",
+  "projectFilePath": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\CRUDExample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mtaha\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\mtaha\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

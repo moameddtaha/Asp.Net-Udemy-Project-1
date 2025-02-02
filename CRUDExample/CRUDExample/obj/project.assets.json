@@ -5596,11 +5596,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\CRUDExample\\CRUDExample.csproj",
+      "projectUniqueName": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\CRUDExample.csproj",
       "projectName": "CRUDExample",
-      "projectPath": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\CRUDExample\\CRUDExample.csproj",
+      "projectPath": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\CRUDExample.csproj",
       "packagesPath": "C:\\Users\\mtaha\\.nuget\\packages\\",
-      "outputPath": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\CRUDExample\\obj\\",
+      "outputPath": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mtaha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5618,20 +5618,20 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\Entities\\Entities.csproj"
+            "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\Entities\\Entities.csproj"
             },
-            "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\RepoCon\\RepoCon.csproj": {
-              "projectPath": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\RepoCon\\RepoCon.csproj"
+            "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\RepoCon\\RepoCon.csproj": {
+              "projectPath": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\RepoCon\\RepoCon.csproj"
             },
-            "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\Repos\\Repos.csproj": {
-              "projectPath": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\Repos\\Repos.csproj"
+            "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\Repos\\Repos.csproj": {
+              "projectPath": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\Repos\\Repos.csproj"
             },
-            "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\ServiceContracts\\ServiceContracts.csproj": {
-              "projectPath": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\ServiceContracts\\ServiceContracts.csproj"
+            "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\ServiceContracts\\ServiceContracts.csproj": {
+              "projectPath": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\ServiceContracts\\ServiceContracts.csproj"
             },
-            "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\Services\\Services.csproj": {
-              "projectPath": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\Services\\Services.csproj"
+            "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\Services\\Services.csproj"
             }
           }
         }

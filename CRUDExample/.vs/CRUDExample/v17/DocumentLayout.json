@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\",
+  "WorkspaceRootPath": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|d:\\mohamed taha\\courses\\asp.net core\\asp.net core 8 (.net 8) true ultimate guide\\test\\filters [mvc and web api]\\configure services extension\\crudexample\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|c:\\users\\mtaha\\onedrive\\desktop\\crud application\\crudexample\\crudexample\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|d:\\mohamed taha\\courses\\asp.net core\\asp.net core 8 (.net 8) true ultimate guide\\test\\filters [mvc and web api]\\configure services extension\\crudexample\\crudexample\\startupextensions\\configureservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\startupextensions\\configureservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FCCC51A-08D7-491E-BF8C-921021D598FF}|CRUDTests\\CRUDTests.csproj|d:\\mohamed taha\\courses\\asp.net core\\asp.net core 8 (.net 8) true ultimate guide\\test\\filters [mvc and web api]\\configure services extension\\crudexample\\crudtests\\personscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FCCC51A-08D7-491E-BF8C-921021D598FF}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\personscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|d:\\mohamed taha\\courses\\asp.net core\\asp.net core 8 (.net 8) true ultimate guide\\test\\filters [mvc and web api]\\configure services extension\\crudexample\\crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|c:\\users\\mtaha\\onedrive\\desktop\\crud application\\crudexample\\crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|c:\\users\\mtaha\\onedrive\\desktop\\crud application\\crudexample\\crudexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|c:\\users\\mtaha\\onedrive\\desktop\\crud application\\crudexample\\crudexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|c:\\users\\mtaha\\onedrive\\desktop\\crud application\\crudexample\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,61 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\CRUDExample\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\Program.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Program.cs",
-              "ToolTip": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\CRUDExample\\Program.cs*",
-              "RelativeToolTip": "CRUDExample\\Program.cs*",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "ToolTip": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\Program.cs",
+              "RelativeToolTip": "CRUDExample\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAADMAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T00:43:15.241Z",
+              "WhenOpened": "2025-02-01T12:24:59.418Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "CRUDExample\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "CRUDExample\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:57:28.165Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ConfigureServicesExtension.cs",
-              "DocumentMoniker": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\CRUDExample\\StartupExtensions\\ConfigureServicesExtension.cs",
-              "RelativeDocumentMoniker": "CRUDExample\\StartupExtensions\\ConfigureServicesExtension.cs",
-              "ToolTip": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\CRUDExample\\StartupExtensions\\ConfigureServicesExtension.cs",
-              "RelativeToolTip": "CRUDExample\\StartupExtensions\\ConfigureServicesExtension.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T00:43:56.208Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "PersonsController.cs",
-              "DocumentMoniker": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\CRUDExample\\Controllers\\PersonsController.cs",
+              "DocumentMoniker": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\Controllers\\PersonsController.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Controllers\\PersonsController.cs",
-              "ToolTip": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\CRUDExample\\Controllers\\PersonsController.cs",
+              "ToolTip": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\Controllers\\PersonsController.cs",
               "RelativeToolTip": "CRUDExample\\Controllers\\PersonsController.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAowFkAAAAJAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwDEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T00:58:27.867Z",
+              "WhenOpened": "2025-02-01T12:26:47.698Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PersonsControllerTest.cs",
-              "DocumentMoniker": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\CRUDTests\\PersonsControllerTest.cs",
-              "RelativeDocumentMoniker": "CRUDTests\\PersonsControllerTest.cs",
-              "ToolTip": "D:\\Mohamed Taha\\Courses\\Asp.Net Core\\Asp.Net Core 8 (.Net 8) True Ultimate Guide\\Test\\Filters [MVC and Web API]\\Configure Services Extension\\CRUDExample\\CRUDTests\\PersonsControllerTest.cs",
-              "RelativeToolTip": "CRUDTests\\PersonsControllerTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T01:09:30.987Z",
-              "EditorCaption": ""
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CRUDExample\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CRUDExample\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T12:25:53.801Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDExample\\appsettings.json",
+              "ToolTip": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\appsettings.json",
+              "RelativeToolTip": "CRUDExample\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-02T16:03:37.78Z",
+              "IsPinned": true
             }
           ]
         }

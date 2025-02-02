@@ -1228,3 +1228,19 @@ D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide
 D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Configure Services Extension\CRUDExample\ServiceContracts\obj\Debug\net8.0\refint\ServiceContracts.dll
 D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Configure Services Extension\CRUDExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.pdb
 D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Configure Services Extension\CRUDExample\ServiceContracts\obj\Debug\net8.0\ref\ServiceContracts.dll
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\ServiceContracts\bin\Debug\net8.0\ServiceContracts.deps.json
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\ServiceContracts\bin\Debug\net8.0\ServiceContracts.dll
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\ServiceContracts\bin\Debug\net8.0\ServiceContracts.pdb
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\ServiceContracts\bin\Debug\net8.0\Entities.dll
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\ServiceContracts\bin\Debug\net8.0\Entities.pdb
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.AssemblyReference.cache
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfoInputs.cache
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfo.cs
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.sourcelink.json
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\ServiceContracts\obj\Debug\net8.0\ServiceC.04662A29.Up2Date
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.dll
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\ServiceContracts\obj\Debug\net8.0\refint\ServiceContracts.dll
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.pdb
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\ServiceContracts\obj\Debug\net8.0\ref\ServiceContracts.dll

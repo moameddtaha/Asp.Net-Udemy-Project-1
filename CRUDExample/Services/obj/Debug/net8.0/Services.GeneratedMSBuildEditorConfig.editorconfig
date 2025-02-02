@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Services
-build_property.ProjectDir = D:\Mohamed Taha\Courses\Asp.Net Core\Asp.Net Core 8 (.Net 8) True Ultimate Guide\Test\Filters [MVC and Web API]\Configure Services Extension\CRUDExample\Services\
+build_property.ProjectDir = C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\Services\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
