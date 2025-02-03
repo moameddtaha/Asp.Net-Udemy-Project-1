@@ -1492,3 +1492,5 @@ C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\Services\obj\Debug\
 C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\Services\obj\Debug\net8.0\refint\Services.dll
 C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\Services\obj\Debug\net8.0\Services.pdb
 C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\Services\obj\Debug\net8.0\ref\Services.dll
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\Services\bin\Debug\net8.0\Exceptions.dll
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\Services\bin\Debug\net8.0\Exceptions.pdb

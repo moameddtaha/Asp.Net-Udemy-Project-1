@@ -9,6 +9,7 @@
       "CRUDExample/1.0.0": {
         "dependencies": {
           "Entities": "1.0.0",
+          "Exceptions": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "8.0.8",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8",
           "RepoCon": "1.0.0",
@@ -1282,6 +1283,11 @@
           "Entities.dll": {}
         }
       },
+      "Exceptions/1.0.0": {
+        "runtime": {
+          "Exceptions.dll": {}
+        }
+      },
       "RepoCon/1.0.0": {
         "dependencies": {
           "Entities": "1.0.0"
@@ -1312,6 +1318,7 @@
           "CsvHelper": "33.0.1",
           "EPPlus": "7.3.2",
           "Entities": "1.0.0",
+          "Exceptions": "1.0.0",
           "RepoCon": "1.0.0",
           "Serilog.Extensions.Hosting": "9.0.0",
           "SerilogTimings": "3.1.0",
@@ -2093,6 +2100,11 @@
       "hashPath": "system.threading.tasks.extensions.4.5.4.nupkg.sha512"
     },
     "Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exceptions/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

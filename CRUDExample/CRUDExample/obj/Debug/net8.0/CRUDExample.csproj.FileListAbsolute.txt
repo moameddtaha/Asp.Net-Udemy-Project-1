@@ -10647,3 +10647,5 @@ C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\CRUDExample\obj\Deb
 C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\CRUDExample\obj\Debug\net8.0\CRUDExample.pdb
 C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\CRUDExample\obj\Debug\net8.0\CRUDExample.genruntimeconfig.cache
 C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\CRUDExample\obj\Debug\net8.0\ref\CRUDExample.dll
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\CRUDExample\bin\Debug\net8.0\Exceptions.dll
+C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\CRUDExample\bin\Debug\net8.0\Exceptions.pdb

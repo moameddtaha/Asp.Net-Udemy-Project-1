@@ -92,7 +92,7 @@ namespace CRUDExample.Controllers
         // Url: /persons/edit/1
         [Route("[action]/{personID}")]
         [HttpGet]
-        //[TypeFilter(typeof(TokenResultFilter))]
+        [TypeFilter(typeof(TokenResultFilter))]
         public async Task<IActionResult> Edit(Guid personID)
         {
             PersonResponse? personResponse = await _personsService.GetPersonbyPersonID(personID);
@@ -119,6 +119,8 @@ namespace CRUDExample.Controllers
             {
                 return RedirectToAction("index", "Persons");
             }
+
+            personRequest.PersonID = Guid.NewGuid();
 
             PersonResponse updatedPerson = await _personsService.UpdatePerson(personRequest);
             return RedirectToAction("Index");
