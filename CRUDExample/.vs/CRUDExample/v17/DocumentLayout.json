@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|c:\\users\\mtaha\\onedrive\\desktop\\crud application\\crudexample\\crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29C85B55-DCFA-4A93-BFFA-F9A81A2A2664}|Services\\Services.csproj|c:\\users\\mtaha\\onedrive\\desktop\\crud application\\crudexample\\services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29C85B55-DCFA-4A93-BFFA-F9A81A2A2664}|Services\\Services.csproj|solutionrelative:services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|c:\\users\\mtaha\\onedrive\\desktop\\crud application\\crudexample\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|c:\\users\\mtaha\\onedrive\\desktop\\crud application\\crudexample\\crudexample\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|c:\\users\\mtaha\\onedrive\\desktop\\crud application\\crudexample\\crudexample\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|c:\\users\\mtaha\\onedrive\\desktop\\crud application\\crudexample\\crudexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|c:\\users\\mtaha\\onedrive\\desktop\\crud application\\crudexample\\crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F1568978-13B0-4925-8E32-5F3CFB21FDBF}|Exceptions\\Exceptions.csproj|c:\\users\\mtaha\\onedrive\\desktop\\crud application\\crudexample\\exceptions\\invalidpersonidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1568978-13B0-4925-8E32-5F3CFB21FDBF}|Exceptions\\Exceptions.csproj|solutionrelative:exceptions\\invalidpersonidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|c:\\users\\mtaha\\onedrive\\desktop\\crud application\\crudexample\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|c:\\users\\mtaha\\onedrive\\desktop\\crud application\\crudexample\\crudexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29C85B55-DCFA-4A93-BFFA-F9A81A2A2664}|Services\\Services.csproj|c:\\users\\mtaha\\onedrive\\desktop\\crud application\\crudexample\\services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29C85B55-DCFA-4A93-BFFA-F9A81A2A2664}|Services\\Services.csproj|solutionrelative:services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|c:\\users\\mtaha\\onedrive\\desktop\\crud application\\crudexample\\crudexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|c:\\users\\mtaha\\onedrive\\desktop\\crud application\\crudexample\\crudexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,17 +46,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\Program.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Program.cs",
               "ToolTip": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\Program.cs",
               "RelativeToolTip": "CRUDExample\\Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAADMAAAApAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowDYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T12:24:59.418Z",
               "IsPinned": true,
@@ -56,13 +64,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ExceptionHandlingMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\Middleware\\ExceptionHandlingMiddleware.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Middleware\\ExceptionHandlingMiddleware.cs",
               "ToolTip": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\Middleware\\ExceptionHandlingMiddleware.cs",
               "RelativeToolTip": "CRUDExample\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwDQAAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwDYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T15:57:28.165Z",
               "IsPinned": true,
@@ -70,13 +78,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "PersonsController.cs",
               "DocumentMoniker": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\Controllers\\PersonsController.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Controllers\\PersonsController.cs",
               "ToolTip": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\Controllers\\PersonsController.cs",
               "RelativeToolTip": "CRUDExample\\Controllers\\PersonsController.cs",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAnwH4AAAAJAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAnwDEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-01T12:26:47.698Z",
               "IsPinned": true,
@@ -84,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "CRUDExample\\Properties\\launchSettings.json",
@@ -104,7 +112,7 @@
               "RelativeDocumentMoniker": "CRUDExample\\appsettings.json",
               "ToolTip": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\appsettings.json",
               "RelativeToolTip": "CRUDExample\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-02T16:03:37.78Z",
               "IsPinned": true,
@@ -112,13 +120,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "PersonsService.cs",
               "DocumentMoniker": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\Services\\PersonsService.cs",
               "RelativeDocumentMoniker": "Services\\PersonsService.cs",
               "ToolTip": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\Services\\PersonsService.cs",
               "RelativeToolTip": "Services\\PersonsService.cs",
-              "ViewState": "AQIAAMEAAAAAAAAAAAAEwNIAAAAMAAAA",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAEwNMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T00:19:17.773Z",
               "IsPinned": true,
@@ -126,15 +134,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "InvalidPersonIDException.cs",
               "DocumentMoniker": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\Exceptions\\InvalidPersonIDException.cs",
               "RelativeDocumentMoniker": "Exceptions\\InvalidPersonIDException.cs",
               "ToolTip": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\Exceptions\\InvalidPersonIDException.cs",
               "RelativeToolTip": "Exceptions\\InvalidPersonIDException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T00:24:17.924Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRUDExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CRUDExample\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T04:05:06.591Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\Views\\Home\\Error.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\Home\\Error.cshtml",
+              "ToolTip": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\Views\\Home\\Error.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\Home\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T04:05:53.86Z",
               "IsPinned": true,
               "EditorCaption": ""
             }

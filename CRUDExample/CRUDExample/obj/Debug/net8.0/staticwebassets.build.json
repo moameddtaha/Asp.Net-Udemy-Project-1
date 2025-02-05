@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ndfwjOb1fqBQiJRpt/NI0aziXsSclndS8LwZS+40yOc=",
+  "Hash": "J2+cVV64L5U2S1RRoT337+bSgnE6Izd7/nPQZVoNPuw=",
   "Source": "CRUDExample",
   "BasePath": "_content/CRUDExample",
   "Mode": "Default",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\wwwroot\\error.svg",
+      "SourceId": "CRUDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\wwwroot\\",
+      "BasePath": "_content/CRUDExample",
+      "RelativePath": "error.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\error.svg"
+    },
     {
       "Identity": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\wwwroot\\jquery.min.js",
       "SourceId": "CRUDExample",

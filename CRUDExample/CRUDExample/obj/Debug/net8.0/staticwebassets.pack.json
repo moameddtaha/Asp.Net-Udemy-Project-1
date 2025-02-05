@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\StyleSheet.css"
     },
     {
+      "Id": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\wwwroot\\error.svg",
+      "PackagePath": "staticwebassets\\error.svg"
+    },
+    {
       "Id": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\wwwroot\\jquery.min.js",
       "PackagePath": "staticwebassets\\jquery.min.js"
     },
