@@ -17,46 +17,18 @@ using Exceptions;
 
 namespace Services
 {
-    public class PersonsService : IPersonsService
+    public class PersonsGetterService : IPersonsGetterService
     {
         //Private field
         private readonly IPersonsRepository _personsRepository;
-        private readonly ILogger<PersonsService> _logger;
+        private readonly ILogger<PersonsGetterService> _logger;
         private readonly IDiagnosticContext _diagnosticContext;
 
-        public PersonsService(IPersonsRepository personsRepository, ILogger<PersonsService> logger, IDiagnosticContext diagnosticContext)
+        public PersonsGetterService(IPersonsRepository personsRepository, ILogger<PersonsGetterService> logger, IDiagnosticContext diagnosticContext)
         {
             _personsRepository = personsRepository;
             _logger = logger;
             _diagnosticContext = diagnosticContext;
-        }
-
-        public async Task<PersonResponse> AddPerson(PersonAddRequest? request)
-        {
-            if (request == null)
-            {
-                throw new ArgumentNullException(nameof(request));
-            }
-
-            //Model validations
-            ValidationHelper.ModelValidation(request);
-
-            //Convert request into Person type
-            Person person = request.ToPerson();
-
-            //Generate PersonID
-            person.PersonID = Guid.NewGuid();
-
-            //Add person object to persons list
-
-            await _personsRepository.AddPerson(person);
-
-            // TODO: Implement stored procedure for inserting person
-            //await _db.sp_InsertPersons(person);
-
-            //Convert person object into PersonResponse type
-            return person.ToPersonResponse();
-
         }
 
         public async Task<List<PersonResponse>> GetAllPersons()
@@ -144,113 +116,6 @@ namespace Services
             _diagnosticContext.Set("Persons", persons);
 
             return persons.Select(p => p.ToPersonResponse()).ToList();
-        }
-
-        public Task<List<PersonResponse>> GetSortedPersons(List<PersonResponse> allPersons, string sortBy, SortOrderOptions sortOrder)
-        {
-
-            _logger.LogInformation("GetSortedPersons of PersonsService");
-
-            if (sortBy == null)
-            {
-                return Task.FromResult(allPersons);
-            }
-
-            var propertyInfo = typeof(PersonResponse).GetProperty(sortBy);
-
-            if (propertyInfo == null)
-            {
-                return Task.FromResult(allPersons);
-            }
-
-            List<PersonResponse> sortedPersons = sortOrder == SortOrderOptions.ASC ? allPersons.OrderBy(person =>
-            {
-                var value = propertyInfo.GetValue(person);
-
-                if (value == null)
-                {
-                    return string.Empty;
-                }
-
-                if (value is IComparable comparableValue)
-                {
-                    return comparableValue;
-                }
-
-                return value.ToString();
-            }).ToList()
-            : allPersons.OrderByDescending(person =>
-            {
-                var value = propertyInfo.GetValue(person);
-
-                if (value == null)
-                {
-                    return string.Empty;
-                }
-
-                if (value is IComparable comparableValue)
-                {
-                    return comparableValue;
-                }
-
-                return value.ToString();
-            }).ToList();
-            return Task.FromResult(sortedPersons);
-        }
-
-        public async Task<PersonResponse> UpdatePerson(PersonUpdateRequest? personUpdateRequest)
-        {
-            if (personUpdateRequest == null)
-            {
-                throw new ArgumentNullException(nameof(personUpdateRequest));
-            }
-
-            // Model validations
-            ValidationHelper.ModelValidation(personUpdateRequest);
-
-            Person? matchingPerson = await _personsRepository.GetPersonbyPersonID(personUpdateRequest.PersonID);
-
-            if (matchingPerson == null)
-            {
-                throw new InvalidPersonIDException("Given person id doesn't exist");
-            }
-
-            //update all details
-            matchingPerson.PersonName = personUpdateRequest.PersonName;
-            matchingPerson.Email = personUpdateRequest.Email;
-            matchingPerson.DateOfBirth = personUpdateRequest.DateOfBirth;
-            matchingPerson.Gender = personUpdateRequest.Gender.ToString();
-            matchingPerson.CountryID = personUpdateRequest.CountryID;
-            matchingPerson.Address = personUpdateRequest.Address;
-            matchingPerson.ReceiveNewsLetter = personUpdateRequest.ReceiveNewsLetter;
-
-            await _personsRepository.UpdatePerson(matchingPerson); //UPDATE
-
-            // TODO: Implement stored procedure for updating person
-
-            //Person person = personUpdateRequest.ToPerson();
-            //await _db.sp_UpdatePerson(person);
-
-            return matchingPerson.ToPersonResponse();
-        }
-
-        public async Task<bool> DeletePerson(Guid? personID)
-        {
-            if (personID == null)
-            {
-                throw new ArgumentNullException(nameof(personID));
-            }
-
-            Person? person = await _personsRepository.GetPersonbyPersonID(personID.Value);
-
-            if (person == null)
-            {
-                return false;
-            }
-
-            await _personsRepository.DeletePersonByPersonID(personID.Value);
-
-            return true;
         }
 
         public async Task<MemoryStream> GetPersonsCSV()
