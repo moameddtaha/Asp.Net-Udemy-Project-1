@@ -6,10 +6,15 @@ namespace CRUDExample.Controllers
     [Route("[controller]")]
     public class CountriesController : Controller
     {
-        private readonly ICountriesService _countriesService;
-        public CountriesController(ICountriesService countriesService)
+        private readonly ICountriesAdderService _countriesAdderService;
+        private readonly ICountriesGetterService _countriesGetterService;
+        private readonly ICountriesUploaderService _countriesUploaderService;
+
+        public CountriesController(ICountriesAdderService countriesAdderService, ICountriesGetterService countriesGetterService, ICountriesUploaderService countriesUploaderService)
         {
-            _countriesService = countriesService;
+            _countriesAdderService = countriesAdderService;
+            _countriesGetterService = countriesGetterService;
+            _countriesUploaderService = countriesUploaderService;
         }
 
         [Route("[action]")]
@@ -50,7 +55,7 @@ namespace CRUDExample.Controllers
 
             try
             {
-                int countriesCountInserted = await _countriesService.UploadCountriesFromExcelFile(excelFile);
+                int countriesCountInserted = await _countriesUploaderService.UploadCountriesFromExcelFile(excelFile);
 
                 ViewBag.Message = $"{countriesCountInserted} countries uploaded";
             }

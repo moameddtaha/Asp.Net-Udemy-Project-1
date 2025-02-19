@@ -1,72 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|c:\\users\\mtaha\\onedrive\\desktop\\crud application\\crudexample\\crudexample\\startupextensions\\configureservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\startupextensions\\configureservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|c:\\users\\mtaha\\onedrive\\desktop\\crud application\\crudexample\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|c:\\users\\mtaha\\onedrive\\desktop\\crud application\\crudexample\\crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7267DDA-047F-4AAE-86E9-6A3A87B63A85}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\Program.cs",
-              "RelativeDocumentMoniker": "CRUDExample\\Program.cs",
-              "ToolTip": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\Program.cs",
-              "RelativeToolTip": "CRUDExample\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACgAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T15:46:20.522Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ConfigureServicesExtension.cs",
-              "DocumentMoniker": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\StartupExtensions\\ConfigureServicesExtension.cs",
-              "RelativeDocumentMoniker": "CRUDExample\\StartupExtensions\\ConfigureServicesExtension.cs",
-              "ToolTip": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\StartupExtensions\\ConfigureServicesExtension.cs",
-              "RelativeToolTip": "CRUDExample\\StartupExtensions\\ConfigureServicesExtension.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwCsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T15:48:46.916Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PersonsController.cs",
-              "DocumentMoniker": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\Controllers\\PersonsController.cs",
-              "RelativeDocumentMoniker": "CRUDExample\\Controllers\\PersonsController.cs",
-              "ToolTip": "C:\\Users\\mtaha\\OneDrive\\Desktop\\CRUD application\\CRUDExample\\CRUDExample\\Controllers\\PersonsController.cs",
-              "RelativeToolTip": "CRUDExample\\Controllers\\PersonsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T15:47:47.646Z",
-              "IsPinned": true
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

@@ -10,6 +10,7 @@ using Rotativa.AspNetCore;
 using ServiceContracts;
 using ServiceContracts.DTO;
 using ServiceContracts.Enums;
+using Services;
 
 namespace CRUDExample.Controllers
 {
@@ -29,11 +30,14 @@ namespace CRUDExample.Controllers
         private readonly IPersonsUpdaterService _personsUpdaterService;
         private readonly IPersonsSorterService _personsSorterService;
 
-        private readonly ICountriesService _countriesService;
+        private readonly ICountriesAdderService _countriesAdderService;
+        private readonly ICountriesGetterService _countriesGetterService;
+        private readonly ICountriesUploaderService _countriesUploaderService;
+
         private readonly ILogger<PersonsController> _logger;
 
         // Constructor
-        public PersonsController(IPersonsGetterService personsGetterService, IPersonsAdderService personsAdderService, IPersonsDeleterService personsDeleterService, IPersonsUpdaterService personsUpdaterService, IPersonsSorterService personsSorterService, ICountriesService countriesService, ILogger<PersonsController> logger)
+        public PersonsController(IPersonsGetterService personsGetterService, IPersonsAdderService personsAdderService, IPersonsDeleterService personsDeleterService, IPersonsUpdaterService personsUpdaterService, IPersonsSorterService personsSorterService, ICountriesAdderService countriesAdderService, ICountriesGetterService countriesGetterService, ICountriesUploaderService countriesUploaderService, ILogger<PersonsController> logger)
         {
             _personsGetterService = personsGetterService;
             _personsAdderService = personsAdderService;
@@ -41,7 +45,10 @@ namespace CRUDExample.Controllers
             _personsUpdaterService = personsUpdaterService;
             _personsSorterService = personsSorterService;
 
-            _countriesService = countriesService;
+            _countriesAdderService = countriesAdderService;
+            _countriesGetterService = countriesGetterService;
+            _countriesUploaderService = countriesUploaderService;
+
             _logger = logger;
         }
 
@@ -207,7 +214,7 @@ namespace CRUDExample.Controllers
 
         private async Task<IEnumerable<SelectListItem>> GetCountrySelectListAsync()
         {
-            var countries = await _countriesService.GetAllCountries();
+            var countries = await _countriesGetterService.GetAllCountries();
             return countries.Select(temp => new SelectListItem()
             {
                 Text = temp.CountryName,

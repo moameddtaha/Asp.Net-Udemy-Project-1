@@ -8,12 +8,18 @@ namespace CRUDExample.Filters.ActionFilters
 {
     public class PersonCreateAndEditPostActionFilter : IAsyncActionFilter
     {
-        private readonly ICountriesService _countriesService;
+        private readonly ICountriesAdderService _countriesAdderService;
+        private readonly ICountriesGetterService _countriesGetterService;
+        private readonly ICountriesUploaderService _countriesUploaderService;
+
         private readonly ILogger<PersonCreateAndEditPostActionFilter> _logger;
 
-        public PersonCreateAndEditPostActionFilter(ICountriesService countriesService, ILogger<PersonCreateAndEditPostActionFilter> logger)
+        public PersonCreateAndEditPostActionFilter(ICountriesAdderService countriesAdderService, ICountriesGetterService countriesGetterService, ICountriesUploaderService countriesUploaderService, ILogger<PersonCreateAndEditPostActionFilter> logger)
         {
-            _countriesService = countriesService;
+            _countriesAdderService = countriesAdderService;
+            _countriesGetterService = countriesGetterService;
+            _countriesUploaderService = countriesUploaderService;
+
             _logger = logger;
         }
 
@@ -23,7 +29,7 @@ namespace CRUDExample.Filters.ActionFilters
             {
                 if (!personsController.ModelState.IsValid)
                 {
-                    var countries = await _countriesService.GetAllCountries();
+                    var countries = await _countriesGetterService.GetAllCountries();
                     personsController.ViewBag.Countries = countries.Select(temp => new SelectListItem()
                     {
                         Text = temp.CountryName,

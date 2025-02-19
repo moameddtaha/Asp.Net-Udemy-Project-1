@@ -8,12 +8,12 @@ using ServiceContracts.DTO;
 
 namespace Services
 {
-    public class CountriesService : ICountriesService
+    public class CountriesGetterService : ICountriesGetterService
     {
         //private field
         private readonly ICountriesRepository _countriesRepository;
 
-        public CountriesService(ICountriesRepository countriesRepository)
+        public CountriesGetterService(ICountriesRepository countriesRepository)
         {
             _countriesRepository = countriesRepository;
         }
