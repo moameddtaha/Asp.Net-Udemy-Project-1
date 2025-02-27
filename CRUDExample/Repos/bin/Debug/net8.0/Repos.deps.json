@@ -564,7 +564,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8"
         },
         "runtime": {
-          "Entities.dll": {}
+          "Entities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "RepoCon/1.0.0": {
@@ -572,7 +575,10 @@
           "Entities": "1.0.0"
         },
         "runtime": {
-          "RepoCon.dll": {}
+          "RepoCon.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

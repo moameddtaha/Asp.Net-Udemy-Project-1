@@ -17,7 +17,9 @@ namespace CRUDExample
             services.AddScoped<ICountriesAdderService, CountriesAdderService>();
             services.AddScoped<ICountriesUploaderService, CountriesUploaderService>();
 
-            services.AddScoped<IPersonsGetterService, PersonsGetterService>();
+            services.AddScoped<PersonsGetterService, PersonsGetterService>();
+            services.AddScoped<IPersonsGetterService, PersonGetterServiceWIthFewExcelFields>();
+
             services.AddScoped<IPersonsAdderService, PersonsAdderService>();
             services.AddScoped<IPersonsDeleterService, PersonsDeleterService>();
             services.AddScoped<IPersonsUpdaterService, PersonsUpdaterService>();

@@ -1280,12 +1280,18 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8"
         },
         "runtime": {
-          "Entities.dll": {}
+          "Entities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Exceptions/1.0.0": {
         "runtime": {
-          "Exceptions.dll": {}
+          "Exceptions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "RepoCon/1.0.0": {
@@ -1293,7 +1299,10 @@
           "Entities": "1.0.0"
         },
         "runtime": {
-          "RepoCon.dll": {}
+          "RepoCon.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Repos/1.0.0": {
@@ -1301,7 +1310,10 @@
           "RepoCon": "1.0.0"
         },
         "runtime": {
-          "Repos.dll": {}
+          "Repos.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "ServiceContracts/1.0.0": {
@@ -1310,7 +1322,10 @@
           "Microsoft.AspNetCore.Http": "2.2.2"
         },
         "runtime": {
-          "ServiceContracts.dll": {}
+          "ServiceContracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Services/1.0.0": {
@@ -1325,7 +1340,10 @@
           "ServiceContracts": "1.0.0"
         },
         "runtime": {
-          "Services.dll": {}
+          "Services.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

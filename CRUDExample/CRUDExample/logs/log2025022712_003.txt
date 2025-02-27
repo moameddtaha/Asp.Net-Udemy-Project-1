@@ -1,0 +1,3 @@
+2025-02-27 12:18:20.443 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-27 12:18:20.454 +02:00 [INF] Hosting environment: Production
+2025-02-27 12:18:20.455 +02:00 [INF] Content root path: C:\Users\negan\Desktop\New folder\crud-operations\CRUDExample\CRUDExample

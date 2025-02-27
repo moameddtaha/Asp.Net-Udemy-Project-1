@@ -1,0 +1,94 @@
+2025-02-27 12:13:06.065 +02:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-02-27 12:13:06.137 +02:00 [INF] Executed DbCommand (12ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-02-27 12:13:06.140 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-02-27 12:13:06.140 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-02-27 12:13:06.157 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2025-02-27 12:13:06.171 +02:00 [INF] No migrations were applied. The database is already up to date.
+2025-02-27 12:13:33.895 +02:00 [INF] User profile is available. Using 'C:\Users\negan\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-02-27 12:13:34.112 +02:00 [INF] Now listening on: http://localhost:5014
+2025-02-27 12:13:35.553 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5014/ - null null
+2025-02-27 12:13:35.657 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+2025-02-27 12:13:35.676 +02:00 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Index (CRUDExample)'
+2025-02-27 12:13:35.724 +02:00 [INF] Route matched with {action = "Index", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller CRUDExample.Controllers.PersonsController (CRUDExample).
+2025-02-27 12:13:35.865 +02:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-02-27 12:13:35.866 +02:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-02-27 12:13:35.867 +02:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-02-27 12:13:35.869 +02:00 [INF] PersonsListActionFilter.OnActionExecuting method
+2025-02-27 12:13:35.872 +02:00 [INF] Index action method of PersonsController
+2025-02-27 12:13:35.879 +02:00 [INF] GetFilteredPersons of PersonsService
+2025-02-27 12:13:35.882 +02:00 [INF] GetAllPersons of PersonsRepository
+2025-02-27 12:13:36.949 +02:00 [INF] Executed DbCommand (19ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[PersonID], [p].[Address], [p].[CountryID], [p].[DateOfBirth], [p].[Email], [p].[Gender], [p].[PersonName], [p].[ReceiveNewsLetter], [p].[TaxIdentificationNumber], [c].[CountryId], [c].[CountryName]
+FROM [Persons] AS [p]
+LEFT JOIN [Countries] AS [c] ON [p].[CountryID] = [c].[CountryId]
+2025-02-27 12:13:37.058 +02:00 [INF] Time for Filtered Persons from Database completed in 1175.8 ms
+2025-02-27 12:13:37.072 +02:00 [INF] GetSortedPersons of PersonsService
+2025-02-27 12:13:37.089 +02:00 [INF] PersonsListActionFilter.OnActionExecuted method
+2025-02-27 12:13:37.130 +02:00 [INF] After logic - ResponseHeaderActionFilter
+2025-02-27 12:13:37.132 +02:00 [INF] After logic - ResponseHeaderActionFilter
+2025-02-27 12:13:37.134 +02:00 [INF] After logic - ResponseHeaderActionFilter
+2025-02-27 12:13:37.138 +02:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2025-02-27 12:13:37.148 +02:00 [INF] Executing ViewResult, running view Index.
+2025-02-27 12:13:37.326 +02:00 [INF] Executed ViewResult - view Index executed in 180.4066ms.
+2025-02-27 12:13:37.329 +02:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - after
+2025-02-27 12:13:37.332 +02:00 [INF] Executed action CRUDExample.Controllers.PersonsController.Index (CRUDExample) in 1605.9736ms
+2025-02-27 12:13:37.334 +02:00 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Index (CRUDExample)'
+2025-02-27 12:13:37.337 +02:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Thu, 27 Feb 2025 10:13:37 GMT
+Server: Kestrel
+Last-Modified: 2025-02-27 12:13
+Transfer-Encoding: chunked
+my-key-from-global: [Redacted]
+my-key-from-action: [Redacted]
+my-key-from-controller: [Redacted]
+2025-02-27 12:13:37.341 +02:00 [INF] HTTP GET / responded 200 in 1687.5725 ms
+2025-02-27 12:13:37.355 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5014/ - 200 null text/html; charset=utf-8 1811.0696ms
+2025-02-27 12:13:37.369 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5014/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-27 12:13:37.369 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5014/StyleSheet.css - null null
+2025-02-27 12:13:37.370 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5014/_vs/browserLink - null null
+2025-02-27 12:13:37.376 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5014/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript; charset=utf-8 7.9491ms
+2025-02-27 12:13:37.378 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /StyleSheet.css
+2025-02-27 12:13:37.426 +02:00 [INF] Sending file. Request path: '/StyleSheet.css'. Physical path: 'C:\Users\negan\Desktop\New folder\crud-operations\CRUDExample\CRUDExample\wwwroot\StyleSheet.css'
+2025-02-27 12:13:37.428 +02:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Date: Thu, 27 Feb 2025 10:13:37 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Thu, 27 Feb 2025 10:10:49 GMT
+Content-Length: 11475
+2025-02-27 12:13:37.430 +02:00 [INF] HTTP GET /StyleSheet.css responded 200 in 52.2255 ms
+2025-02-27 12:13:37.432 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5014/StyleSheet.css - 200 11475 text/css 63.4428ms
+2025-02-27 12:13:37.433 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5014/_vs/browserLink - 200 null text/javascript; charset=UTF-8 62.9432ms
+2025-02-27 12:13:37.491 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5014/favicon.ico - null null
+2025-02-27 12:13:37.495 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /favicon.ico
+2025-02-27 12:13:37.499 +02:00 [INF] Response:
+StatusCode: 404
+2025-02-27 12:13:37.500 +02:00 [INF] HTTP GET /favicon.ico responded 404 in 4.9473 ms
+2025-02-27 12:13:37.502 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5014/favicon.ico - 499 null null 11.1796ms
+2025-02-27 12:13:37.505 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5014/favicon.ico, Response status code: 499
