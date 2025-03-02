@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4KzySGOh7wg=",
+  "dgSpecHash": "5KGqghcIhSM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDTests\\CRUDTests.csproj",
+  "projectFilePath": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDTests\\CRUDTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\negan\\.nuget\\packages\\autofixture\\4.18.1\\autofixture.4.18.1.nupkg.sha512",
     "C:\\Users\\negan\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

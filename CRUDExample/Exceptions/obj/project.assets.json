@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\Exceptions\\Exceptions.csproj",
+      "projectUniqueName": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\Exceptions\\Exceptions.csproj",
       "projectName": "Exceptions",
-      "projectPath": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\Exceptions\\Exceptions.csproj",
+      "projectPath": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\Exceptions\\Exceptions.csproj",
       "packagesPath": "C:\\Users\\negan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\Exceptions\\obj\\",
+      "outputPath": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\Exceptions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

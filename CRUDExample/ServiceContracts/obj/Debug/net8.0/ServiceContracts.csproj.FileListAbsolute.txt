@@ -1260,3 +1260,19 @@ C:\Users\negan\Desktop\New folder\crud-operations\CRUDExample\ServiceContracts\o
 C:\Users\negan\Desktop\New folder\crud-operations\CRUDExample\ServiceContracts\obj\Debug\net8.0\refint\ServiceContracts.dll
 C:\Users\negan\Desktop\New folder\crud-operations\CRUDExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.pdb
 C:\Users\negan\Desktop\New folder\crud-operations\CRUDExample\ServiceContracts\obj\Debug\net8.0\ref\ServiceContracts.dll
+C:\Users\negan\Desktop\crud-operations\CRUDExample\ServiceContracts\bin\Debug\net8.0\ServiceContracts.deps.json
+C:\Users\negan\Desktop\crud-operations\CRUDExample\ServiceContracts\bin\Debug\net8.0\ServiceContracts.dll
+C:\Users\negan\Desktop\crud-operations\CRUDExample\ServiceContracts\bin\Debug\net8.0\ServiceContracts.pdb
+C:\Users\negan\Desktop\crud-operations\CRUDExample\ServiceContracts\bin\Debug\net8.0\Entities.dll
+C:\Users\negan\Desktop\crud-operations\CRUDExample\ServiceContracts\bin\Debug\net8.0\Entities.pdb
+C:\Users\negan\Desktop\crud-operations\CRUDExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.AssemblyReference.cache
+C:\Users\negan\Desktop\crud-operations\CRUDExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\negan\Desktop\crud-operations\CRUDExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfoInputs.cache
+C:\Users\negan\Desktop\crud-operations\CRUDExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfo.cs
+C:\Users\negan\Desktop\crud-operations\CRUDExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\negan\Desktop\crud-operations\CRUDExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.sourcelink.json
+C:\Users\negan\Desktop\crud-operations\CRUDExample\ServiceContracts\obj\Debug\net8.0\ServiceC.04662A29.Up2Date
+C:\Users\negan\Desktop\crud-operations\CRUDExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.dll
+C:\Users\negan\Desktop\crud-operations\CRUDExample\ServiceContracts\obj\Debug\net8.0\refint\ServiceContracts.dll
+C:\Users\negan\Desktop\crud-operations\CRUDExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.pdb
+C:\Users\negan\Desktop\crud-operations\CRUDExample\ServiceContracts\obj\Debug\net8.0\ref\ServiceContracts.dll

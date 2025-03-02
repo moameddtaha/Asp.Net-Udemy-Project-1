@@ -719,3 +719,21 @@ C:\Users\negan\Desktop\New folder\crud-operations\CRUDExample\Repos\obj\Debug\ne
 C:\Users\negan\Desktop\New folder\crud-operations\CRUDExample\Repos\obj\Debug\net8.0\refint\Repos.dll
 C:\Users\negan\Desktop\New folder\crud-operations\CRUDExample\Repos\obj\Debug\net8.0\Repos.pdb
 C:\Users\negan\Desktop\New folder\crud-operations\CRUDExample\Repos\obj\Debug\net8.0\ref\Repos.dll
+C:\Users\negan\Desktop\crud-operations\CRUDExample\Repos\bin\Debug\net8.0\Repos.deps.json
+C:\Users\negan\Desktop\crud-operations\CRUDExample\Repos\bin\Debug\net8.0\Repos.dll
+C:\Users\negan\Desktop\crud-operations\CRUDExample\Repos\bin\Debug\net8.0\Repos.pdb
+C:\Users\negan\Desktop\crud-operations\CRUDExample\Repos\bin\Debug\net8.0\Entities.dll
+C:\Users\negan\Desktop\crud-operations\CRUDExample\Repos\bin\Debug\net8.0\RepoCon.dll
+C:\Users\negan\Desktop\crud-operations\CRUDExample\Repos\bin\Debug\net8.0\RepoCon.pdb
+C:\Users\negan\Desktop\crud-operations\CRUDExample\Repos\bin\Debug\net8.0\Entities.pdb
+C:\Users\negan\Desktop\crud-operations\CRUDExample\Repos\obj\Debug\net8.0\Repos.csproj.AssemblyReference.cache
+C:\Users\negan\Desktop\crud-operations\CRUDExample\Repos\obj\Debug\net8.0\Repos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\negan\Desktop\crud-operations\CRUDExample\Repos\obj\Debug\net8.0\Repos.AssemblyInfoInputs.cache
+C:\Users\negan\Desktop\crud-operations\CRUDExample\Repos\obj\Debug\net8.0\Repos.AssemblyInfo.cs
+C:\Users\negan\Desktop\crud-operations\CRUDExample\Repos\obj\Debug\net8.0\Repos.csproj.CoreCompileInputs.cache
+C:\Users\negan\Desktop\crud-operations\CRUDExample\Repos\obj\Debug\net8.0\Repos.sourcelink.json
+C:\Users\negan\Desktop\crud-operations\CRUDExample\Repos\obj\Debug\net8.0\Repos.csproj.Up2Date
+C:\Users\negan\Desktop\crud-operations\CRUDExample\Repos\obj\Debug\net8.0\Repos.dll
+C:\Users\negan\Desktop\crud-operations\CRUDExample\Repos\obj\Debug\net8.0\refint\Repos.dll
+C:\Users\negan\Desktop\crud-operations\CRUDExample\Repos\obj\Debug\net8.0\Repos.pdb
+C:\Users\negan\Desktop\crud-operations\CRUDExample\Repos\obj\Debug\net8.0\ref\Repos.dll

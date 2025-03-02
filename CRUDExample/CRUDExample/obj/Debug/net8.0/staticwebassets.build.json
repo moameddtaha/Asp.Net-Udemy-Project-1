@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aPjzJP41nzpRq9X4Yf7MuCYM/tTEFlzXh/EHv69GX1c=",
+  "Hash": "DXad8NB+M8P6NjSMcnWENI4NK1+hbjO1xVenIJ174sc=",
   "Source": "CRUDExample",
   "BasePath": "_content/CRUDExample",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CRUDExample\\wwwroot",
       "Source": "CRUDExample",
-      "ContentRoot": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\",
       "BasePath": "_content/CRUDExample",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\error.svg",
+      "Identity": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\error.svg",
       "SourceId": "CRUDExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\",
       "BasePath": "_content/CRUDExample",
       "RelativePath": "error#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\error.svg"
     },
     {
-      "Identity": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\jquery.min.js",
+      "Identity": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\jquery.min.js",
       "SourceId": "CRUDExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\",
       "BasePath": "_content/CRUDExample",
       "RelativePath": "jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\jquery.validate.min.js",
       "SourceId": "CRUDExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\",
       "BasePath": "_content/CRUDExample",
       "RelativePath": "jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\jquery.validate.unobtrusive.min.js",
       "SourceId": "CRUDExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\",
       "BasePath": "_content/CRUDExample",
       "RelativePath": "jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\logo.png",
+      "Identity": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\logo.png",
       "SourceId": "CRUDExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\",
       "BasePath": "_content/CRUDExample",
       "RelativePath": "logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "Identity": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
       "SourceId": "CRUDExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\",
       "BasePath": "_content/CRUDExample",
       "RelativePath": "Rotativa/wkhtmltopdf#[.{fingerprint}]?.exe",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\Rotativa\\wkhtmltopdf.exe"
     },
     {
-      "Identity": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\StyleSheet.css",
+      "Identity": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\StyleSheet.css",
       "SourceId": "CRUDExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\",
       "BasePath": "_content/CRUDExample",
       "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -167,7 +167,7 @@
   "Endpoints": [
     {
       "Route": "error.3iwubkh3iq.svg",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\error.svg",
+      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\error.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -212,7 +212,7 @@
     },
     {
       "Route": "error.svg",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\error.svg",
+      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\error.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -249,7 +249,7 @@
     },
     {
       "Route": "jquery.min.js",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\jquery.min.js",
+      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -286,7 +286,7 @@
     },
     {
       "Route": "jquery.min.m9qm4tazc0.js",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\jquery.min.js",
+      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -331,7 +331,7 @@
     },
     {
       "Route": "jquery.validate.min.gk0pw8i4co.js",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -376,7 +376,7 @@
     },
     {
       "Route": "jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -413,7 +413,7 @@
     },
     {
       "Route": "jquery.validate.unobtrusive.min.48y08845bh.js",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -458,7 +458,7 @@
     },
     {
       "Route": "jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -495,7 +495,7 @@
     },
     {
       "Route": "logo.n5ltc1qf5q.png",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\logo.png",
+      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -540,7 +540,7 @@
     },
     {
       "Route": "logo.png",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\logo.png",
+      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -577,7 +577,7 @@
     },
     {
       "Route": "Rotativa/wkhtmltopdf.cuquy3615b.exe",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -622,7 +622,7 @@
     },
     {
       "Route": "Rotativa/wkhtmltopdf.exe",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -659,7 +659,7 @@
     },
     {
       "Route": "StyleSheet.css",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\StyleSheet.css",
+      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\StyleSheet.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -696,7 +696,7 @@
     },
     {
       "Route": "StyleSheet.i7ca96py24.css",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\StyleSheet.css",
+      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\CRUDExample\\wwwroot\\StyleSheet.css",
       "Selectors": [],
       "ResponseHeaders": [
         {

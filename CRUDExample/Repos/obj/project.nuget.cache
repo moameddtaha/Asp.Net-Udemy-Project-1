@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gVmuP8iPJMU=",
+  "dgSpecHash": "u8ZODrFGcNw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\negan\\Desktop\\New folder\\crud-operations\\CRUDExample\\Repos\\Repos.csproj",
+  "projectFilePath": "C:\\Users\\negan\\Desktop\\crud-operations\\CRUDExample\\Repos\\Repos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\negan\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\negan\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

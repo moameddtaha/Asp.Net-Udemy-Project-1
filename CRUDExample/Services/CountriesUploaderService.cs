@@ -18,68 +18,6 @@ namespace Services
             _countriesRepository = countriesRepository;
         }
 
-        public async Task<CountryResponse> AddCountry(CountryAddRequest? request)
-        {
-
-            //Validation: CountryAddRequest parameter can't be null
-            if (request == null)
-            {
-                throw new ArgumentNullException(nameof(CountryAddRequest));
-            }
-
-            // Validation: countryName can't be null
-            if (request.CountryName == null)
-            {
-                throw new ArgumentException(nameof(CountryAddRequest.CountryName));
-            }
-
-            //Validation: CountryName can't be duplicate
-            if (await _countriesRepository.GetCountryByCountryName(request.CountryName) != null)
-            {
-                throw new ArgumentException("Given country name already exists");
-            }
-
-            // Convert Object from CountryAddRequest to Country type
-            Country country = request.ToCountry();
-
-            //Generate CountryID
-            country.CountryId = Guid.NewGuid();
-
-            //Add country object into _countries
-            await _countriesRepository.AddCountry(country);
-
-            // TODO: Return and implement the stored procedure for adding countries
-
-            //await _db.sp_InsertCountries(country);
-
-            return country.ToCountryResponse();
-        }
-
-        public async Task<List<CountryResponse>> GetAllCountries()
-        {
-            List<Country> countries = await _countriesRepository.GetAllCountries();
-
-            return countries
-                .Select(country => country.ToCountryResponse())
-                .ToList() ?? new List<CountryResponse>();
-
-            // TODO: Return and implement the stored procedure for getting all countries
-
-            //var countries = await _db.sp_GetAllCountries();
-            //return countries.Select(temp => temp.ToCountryResponse()).ToList();
-        }
-
-        public async Task<CountryResponse?> GetCountryByCountryID(Guid? CountryID)
-        {
-            if (CountryID == null)
-            {
-                return null;
-            }
-            Country? country_response_from_list = await _countriesRepository.GetCountryByCountryID(CountryID.Value);
-
-            return country_response_from_list?.ToCountryResponse() ?? null;
-        }
-
         public async Task<int> UploadCountriesFromExcelFile(IFormFile formFile)
         {
             MemoryStream memoryStream = new MemoryStream();
@@ -115,15 +53,14 @@ namespace Services
                         // Check if the country already exists in the database
                         if (_countriesRepository.GetCountryByCountryName(countryName) == null)
                         {
-                            CountryAddRequest countryAddRequest = new CountryAddRequest()
+                            
+                            Country country = new Country()
                             {
                                 CountryName = countryName
                             };
-                            //await _db.Countries.AddAsync(country);
-                            //await _db.SaveChangesAsync();
 
                             // Add the country to the database
-                            await AddCountry(countryAddRequest);
+                            await _countriesRepository.AddCountry(country);
 
                             countriesInserted++;
                         }
