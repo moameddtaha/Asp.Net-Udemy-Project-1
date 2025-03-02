@@ -37,6 +37,11 @@ namespace Services
 
                 List<PersonResponse> persons = await GetAllPersons();
 
+                if(persons.Count == 0)
+                {
+                    throw new InvalidOperationException("No persons data");
+                }
+
                 foreach (var person in persons)
                 {
                     excelWorksheet.Cells[row, 1].Value = person.PersonName;
