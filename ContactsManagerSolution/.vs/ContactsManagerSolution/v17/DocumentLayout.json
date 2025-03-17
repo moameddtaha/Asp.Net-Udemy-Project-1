@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB65B145-15C0-4471-8629-0A34E9C64858}|ContactsManager.IntegrationTests\\ContactsManager.IntegrationTests.csproj|c:\\users\\negan\\desktop\\crud-operations\\contactsmanagersolution\\contactsmanager.integrationtests\\personcontrollerintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB65B145-15C0-4471-8629-0A34E9C64858}|ContactsManager.IntegrationTests\\ContactsManager.IntegrationTests.csproj|solutionrelative:contactsmanager.integrationtests\\personcontrollerintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonControllerIntegrationTest.cs",
+              "DocumentMoniker": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.IntegrationTests\\PersonControllerIntegrationTest.cs",
+              "RelativeDocumentMoniker": "ContactsManager.IntegrationTests\\PersonControllerIntegrationTest.cs",
+              "ToolTip": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.IntegrationTests\\PersonControllerIntegrationTest.cs",
+              "RelativeToolTip": "ContactsManager.IntegrationTests\\PersonControllerIntegrationTest.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T06:10:42.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

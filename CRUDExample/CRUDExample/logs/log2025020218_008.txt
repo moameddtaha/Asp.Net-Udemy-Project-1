@@ -1,3 +1,0 @@
-2025-02-02 18:24:39.416 +02:00 [INF] Application started. Press Ctrl+C to shut down.
-2025-02-02 18:24:39.424 +02:00 [INF] Hosting environment: Production
-2025-02-02 18:24:39.424 +02:00 [INF] Content root path: C:\Users\mtaha\OneDrive\Desktop\CRUD application\CRUDExample\CRUDExample
