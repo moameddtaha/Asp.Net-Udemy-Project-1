@@ -1,0 +1,255 @@
+2025-03-20 02:56:45.992 +02:00 [INF] User profile is available. Using 'C:\Users\negan\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-03-20 02:56:46.489 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost/Persons/Create - null null
+2025-03-20 02:56:46.498 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Persons/Create
+2025-03-20 02:56:46.508 +02:00 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Create (ContactsManager.UI)'
+2025-03-20 02:56:46.522 +02:00 [INF] Route matched with {action = "Create", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create() on controller CRUDExample.Controllers.PersonsController (ContactsManager.UI).
+2025-03-20 02:56:46.624 +02:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-03-20 02:56:46.625 +02:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-03-20 02:56:46.625 +02:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-03-20 02:56:46.649 +02:00 [INF] After logic - ResponseHeaderActionFilter
+2025-03-20 02:56:46.649 +02:00 [INF] After logic - ResponseHeaderActionFilter
+2025-03-20 02:56:46.649 +02:00 [INF] After logic - ResponseHeaderActionFilter
+2025-03-20 02:56:46.650 +02:00 [ERR] Exception filter HandleExceptionFilter.OnException 
+ System.InvalidOperationException 
+ Services for database providers 'Microsoft.EntityFrameworkCore.SqlServer', 'Microsoft.EntityFrameworkCore.InMemory' have been registered in the service provider. Only a single database provider can be registered in a service provider. If possible, ensure that Entity Framework is managing its service provider by removing the call to 'UseInternalServiceProvider'. Otherwise, consider conditionally registering the database provider, or maintaining one service provider per database provider.
+2025-03-20 02:56:46.653 +02:00 [INF] Executed action CRUDExample.Controllers.PersonsController.Create (ContactsManager.UI) in 128.1566ms
+2025-03-20 02:56:46.655 +02:00 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Create (ContactsManager.UI)'
+2025-03-20 02:56:46.656 +02:00 [INF] Response:
+StatusCode: 200
+my-key-from-global: [Redacted]
+my-key-from-action: [Redacted]
+my-key-from-controller: [Redacted]
+2025-03-20 02:56:46.657 +02:00 [ERR] HTTP GET /Persons/Create responded 500 in 161.2370 ms
+System.InvalidOperationException: Services for database providers 'Microsoft.EntityFrameworkCore.SqlServer', 'Microsoft.EntityFrameworkCore.InMemory' have been registered in the service provider. Only a single database provider can be registered in a service provider. If possible, ensure that Entity Framework is managing its service provider by removing the call to 'UseInternalServiceProvider'. Otherwise, consider conditionally registering the database provider, or maintaining one service provider per database provider.
+   at Microsoft.EntityFrameworkCore.Internal.DbContextServices.Initialize(IServiceProvider scopedProvider, DbContextOptions contextOptions, DbContext context)
+   at Microsoft.EntityFrameworkCore.DbContext.get_ContextServices()
+   at Microsoft.EntityFrameworkCore.DbContext.get_Model()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityType()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.CheckState()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityQueryable()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.System.Collections.Generic.IAsyncEnumerable<TEntity>.GetAsyncEnumerator(CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.ConfiguredCancelableAsyncEnumerable`1.GetAsyncEnumerator()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Repos.CountriesRepo.GetAllCountries() in C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.Infrastructure\Repositories\CountriesRepo.cs:line 31
+   at Services.CountriesGetterService.GetAllCountries() in C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.Core\Services\CountriesGetterService.cs:line 22
+   at CRUDExample.Controllers.PersonsController.GetCountrySelectListAsync() in C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\Controllers\PersonsController.cs:line 217
+   at CRUDExample.Controllers.PersonsController.Create() in C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\Controllers\PersonsController.cs:line 90
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ExceptionContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeNextResourceFilter()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-03-20 02:56:46.682 +02:00 [ERR] System.InvalidOperationException Services for database providers 'Microsoft.EntityFrameworkCore.SqlServer', 'Microsoft.EntityFrameworkCore.InMemory' have been registered in the service provider. Only a single database provider can be registered in a service provider. If possible, ensure that Entity Framework is managing its service provider by removing the call to 'UseInternalServiceProvider'. Otherwise, consider conditionally registering the database provider, or maintaining one service provider per database provider.
+2025-03-20 02:56:46.685 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Services for database providers 'Microsoft.EntityFrameworkCore.SqlServer', 'Microsoft.EntityFrameworkCore.InMemory' have been registered in the service provider. Only a single database provider can be registered in a service provider. If possible, ensure that Entity Framework is managing its service provider by removing the call to 'UseInternalServiceProvider'. Otherwise, consider conditionally registering the database provider, or maintaining one service provider per database provider.
+   at Microsoft.EntityFrameworkCore.Internal.DbContextServices.Initialize(IServiceProvider scopedProvider, DbContextOptions contextOptions, DbContext context)
+   at Microsoft.EntityFrameworkCore.DbContext.get_ContextServices()
+   at Microsoft.EntityFrameworkCore.DbContext.get_Model()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityType()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.CheckState()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityQueryable()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.System.Collections.Generic.IAsyncEnumerable<TEntity>.GetAsyncEnumerator(CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.ConfiguredCancelableAsyncEnumerable`1.GetAsyncEnumerator()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Repos.CountriesRepo.GetAllCountries() in C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.Infrastructure\Repositories\CountriesRepo.cs:line 31
+   at Services.CountriesGetterService.GetAllCountries() in C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.Core\Services\CountriesGetterService.cs:line 22
+   at CRUDExample.Controllers.PersonsController.GetCountrySelectListAsync() in C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\Controllers\PersonsController.cs:line 217
+   at CRUDExample.Controllers.PersonsController.Create() in C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\Controllers\PersonsController.cs:line 90
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ExceptionContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeNextResourceFilter()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at CRUDExample.Middleware.ExceptionHandlingMiddleware.Invoke(HttpContext httpContext) in C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\Middleware\ExceptionHandlingMiddleware.cs:line 26
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-03-20 02:56:46.693 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Error
+2025-03-20 02:56:46.693 +02:00 [INF] Executing endpoint 'CRUDExample.Controllers.HomeController.Error (ContactsManager.UI)'
+2025-03-20 02:56:46.695 +02:00 [INF] Route matched with {action = "Error", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Error() on controller CRUDExample.Controllers.HomeController (ContactsManager.UI).
+2025-03-20 02:56:46.695 +02:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-03-20 02:56:46.705 +02:00 [INF] After logic - ResponseHeaderActionFilter
+2025-03-20 02:56:46.716 +02:00 [INF] Executing ViewResult, running view Error.
+2025-03-20 02:56:46.772 +02:00 [INF] Executed ViewResult - view Error executed in 60.3308ms.
+2025-03-20 02:56:46.772 +02:00 [INF] Executed action CRUDExample.Controllers.HomeController.Error (ContactsManager.UI) in 77.4924ms
+2025-03-20 02:56:46.772 +02:00 [INF] Executed endpoint 'CRUDExample.Controllers.HomeController.Error (ContactsManager.UI)'
+2025-03-20 02:56:46.772 +02:00 [INF] Response:
+StatusCode: 500
+my-key-from-global: [Redacted]
+Content-Type: text/html; charset=utf-8
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Expires: -1
+2025-03-20 02:56:46.772 +02:00 [ERR] HTTP GET /Error responded 500 in 79.6623 ms
+2025-03-20 02:56:46.776 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost/Persons/Create - 500 null text/html; charset=utf-8 287.8182ms
+2025-03-20 02:56:46.984 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost/Persons/Index - null null
+2025-03-20 02:56:46.985 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Persons/Index
+2025-03-20 02:56:46.986 +02:00 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-03-20 02:56:46.993 +02:00 [INF] Route matched with {action = "Index", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller CRUDExample.Controllers.PersonsController (ContactsManager.UI).
+2025-03-20 02:56:47.002 +02:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-03-20 02:56:47.003 +02:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-03-20 02:56:47.003 +02:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-03-20 02:56:47.003 +02:00 [INF] PersonsListActionFilter.OnActionExecuting method
+2025-03-20 02:56:47.004 +02:00 [INF] Index action method of PersonsController
+2025-03-20 02:56:47.007 +02:00 [INF] GetFilteredPersons of PersonsService
+2025-03-20 02:56:47.009 +02:00 [INF] GetAllPersons of PersonsRepository
+2025-03-20 02:56:47.010 +02:00 [INF] Time for Filtered Persons from Database completed in 1.8 ms
+2025-03-20 02:56:47.012 +02:00 [INF] PersonsListActionFilter.OnActionExecuted method
+2025-03-20 02:56:47.014 +02:00 [INF] After logic - ResponseHeaderActionFilter
+2025-03-20 02:56:47.014 +02:00 [INF] After logic - ResponseHeaderActionFilter
+2025-03-20 02:56:47.014 +02:00 [INF] After logic - ResponseHeaderActionFilter
+2025-03-20 02:56:47.014 +02:00 [ERR] Exception filter HandleExceptionFilter.OnException 
+ System.InvalidOperationException 
+ Services for database providers 'Microsoft.EntityFrameworkCore.SqlServer', 'Microsoft.EntityFrameworkCore.InMemory' have been registered in the service provider. Only a single database provider can be registered in a service provider. If possible, ensure that Entity Framework is managing its service provider by removing the call to 'UseInternalServiceProvider'. Otherwise, consider conditionally registering the database provider, or maintaining one service provider per database provider.
+2025-03-20 02:56:47.014 +02:00 [INF] Executed action CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI) in 20.4467ms
+2025-03-20 02:56:47.014 +02:00 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-03-20 02:56:47.014 +02:00 [INF] Response:
+StatusCode: 200
+my-key-from-global: [Redacted]
+my-key-from-action: [Redacted]
+my-key-from-controller: [Redacted]
+2025-03-20 02:56:47.014 +02:00 [ERR] HTTP GET /Persons/Index responded 500 in 29.6127 ms
+System.InvalidOperationException: Services for database providers 'Microsoft.EntityFrameworkCore.SqlServer', 'Microsoft.EntityFrameworkCore.InMemory' have been registered in the service provider. Only a single database provider can be registered in a service provider. If possible, ensure that Entity Framework is managing its service provider by removing the call to 'UseInternalServiceProvider'. Otherwise, consider conditionally registering the database provider, or maintaining one service provider per database provider.
+   at Microsoft.EntityFrameworkCore.Internal.DbContextServices.Initialize(IServiceProvider scopedProvider, DbContextOptions contextOptions, DbContext context)
+   at Microsoft.EntityFrameworkCore.DbContext.get_ContextServices()
+   at Microsoft.EntityFrameworkCore.DbContext.get_Model()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityType()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.CheckState()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityQueryable()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.System.Linq.IQueryable.get_Provider()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.Include[TEntity](IQueryable`1 source, String navigationPropertyPath)
+   at Repos.PersonsRepository.GetAllPersons() in C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.Infrastructure\Repositories\PersonsRepository.cs:line 51
+   at Services.PersonsGetterService.GetFilteredPersons(String searchBy, String searchString) in C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.Core\Services\PersonsGetterService.cs:line 106
+   at Services.PersonGetterServiceWIthFewExcelFields.GetFilteredPersons(String searchBy, String searchString) in C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.Core\Services\PersonGetterServiceWIthFewExcelFields.cs:line 23
+   at CRUDExample.Controllers.PersonsController.Index(String searchBy, String searchString, String sortBy, SortOrderOptions sortOrder) in C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\Controllers\PersonsController.cs:line 73
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ExceptionContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeNextResourceFilter()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2025-03-20 02:56:47.016 +02:00 [ERR] System.InvalidOperationException Services for database providers 'Microsoft.EntityFrameworkCore.SqlServer', 'Microsoft.EntityFrameworkCore.InMemory' have been registered in the service provider. Only a single database provider can be registered in a service provider. If possible, ensure that Entity Framework is managing its service provider by removing the call to 'UseInternalServiceProvider'. Otherwise, consider conditionally registering the database provider, or maintaining one service provider per database provider.
+2025-03-20 02:56:47.016 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Services for database providers 'Microsoft.EntityFrameworkCore.SqlServer', 'Microsoft.EntityFrameworkCore.InMemory' have been registered in the service provider. Only a single database provider can be registered in a service provider. If possible, ensure that Entity Framework is managing its service provider by removing the call to 'UseInternalServiceProvider'. Otherwise, consider conditionally registering the database provider, or maintaining one service provider per database provider.
+   at Microsoft.EntityFrameworkCore.Internal.DbContextServices.Initialize(IServiceProvider scopedProvider, DbContextOptions contextOptions, DbContext context)
+   at Microsoft.EntityFrameworkCore.DbContext.get_ContextServices()
+   at Microsoft.EntityFrameworkCore.DbContext.get_Model()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityType()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.CheckState()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityQueryable()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.System.Linq.IQueryable.get_Provider()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.Include[TEntity](IQueryable`1 source, String navigationPropertyPath)
+   at Repos.PersonsRepository.GetAllPersons() in C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.Infrastructure\Repositories\PersonsRepository.cs:line 51
+   at Services.PersonsGetterService.GetFilteredPersons(String searchBy, String searchString) in C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.Core\Services\PersonsGetterService.cs:line 106
+   at Services.PersonGetterServiceWIthFewExcelFields.GetFilteredPersons(String searchBy, String searchString) in C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.Core\Services\PersonGetterServiceWIthFewExcelFields.cs:line 23
+   at CRUDExample.Controllers.PersonsController.Index(String searchBy, String searchString, String sortBy, SortOrderOptions sortOrder) in C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\Controllers\PersonsController.cs:line 73
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ExceptionContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeNextResourceFilter()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Microsoft.AspNetCore.HttpLogging.HttpLoggingMiddleware.InvokeInternal(HttpContext context, HttpLoggingOptions options, HttpLoggingAttribute loggingAttribute, HttpLoggingFields loggingFields)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at CRUDExample.Middleware.ExceptionHandlingMiddleware.Invoke(HttpContext httpContext) in C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\Middleware\ExceptionHandlingMiddleware.cs:line 26
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-03-20 02:56:47.028 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Error
+2025-03-20 02:56:47.028 +02:00 [INF] Executing endpoint 'CRUDExample.Controllers.HomeController.Error (ContactsManager.UI)'
+2025-03-20 02:56:47.029 +02:00 [INF] Route matched with {action = "Error", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Error() on controller CRUDExample.Controllers.HomeController (ContactsManager.UI).
+2025-03-20 02:56:47.029 +02:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-03-20 02:56:47.029 +02:00 [INF] After logic - ResponseHeaderActionFilter
+2025-03-20 02:56:47.029 +02:00 [INF] Executing ViewResult, running view Error.
+2025-03-20 02:56:47.031 +02:00 [INF] Executed ViewResult - view Error executed in 2.0029ms.
+2025-03-20 02:56:47.031 +02:00 [INF] Executed action CRUDExample.Controllers.HomeController.Error (ContactsManager.UI) in 2.5502ms
+2025-03-20 02:56:47.031 +02:00 [INF] Executed endpoint 'CRUDExample.Controllers.HomeController.Error (ContactsManager.UI)'
+2025-03-20 02:56:47.031 +02:00 [INF] Response:
+StatusCode: 500
+my-key-from-global: [Redacted]
+Content-Type: text/html; charset=utf-8
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Expires: -1
+2025-03-20 02:56:47.031 +02:00 [ERR] HTTP GET /Error responded 500 in 3.0548 ms
+2025-03-20 02:56:47.031 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost/Persons/Index - 500 null text/html; charset=utf-8 47.0559ms
