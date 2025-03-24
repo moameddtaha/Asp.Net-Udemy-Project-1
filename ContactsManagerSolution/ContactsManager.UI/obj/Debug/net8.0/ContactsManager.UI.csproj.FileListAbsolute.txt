@@ -212,3 +212,10 @@ C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.U
 C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\obj\Debug\net8.0\ContactsManager.UI.pdb
 C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\obj\Debug\net8.0\ContactsManager.UI.genruntimeconfig.cache
 C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\obj\Debug\net8.0\ref\ContactsManager.UI.dll
+C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll

@@ -28,6 +28,10 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/negan/Desktop/crud-operations/ContactsManagerSolution/ContactsManager.UI/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/negan/Desktop/crud-operations/ContactsManagerSolution/ContactsManager.UI/Views/Countries/UploadFromExcel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXFVwbG9hZEZyb21FeGNlbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
