@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContactsManager.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a03ce10d76a1ac0ac99cf0572738a81262647409")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f0fbf5dae42338be2c79107ff714934be9ea5be")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContactsManager.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContactsManager.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
