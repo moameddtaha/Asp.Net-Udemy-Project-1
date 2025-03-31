@@ -1,35 +1,35 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "Id": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
       "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf.exe"
     },
     {
-      "Id": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\StyleSheet.css",
+      "Id": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\StyleSheet.css",
       "PackagePath": "staticwebassets\\StyleSheet.css"
     },
     {
-      "Id": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\error.svg",
+      "Id": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\error.svg",
       "PackagePath": "staticwebassets\\error.svg"
     },
     {
-      "Id": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.min.js",
+      "Id": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.min.js",
       "PackagePath": "staticwebassets\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.validate.min.js",
+      "Id": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\logo.png",
+      "Id": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\logo.png",
       "PackagePath": "staticwebassets\\logo.png"
     },
     {

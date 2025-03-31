@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "j+RyVcx0Q/U+bpxSY3uP4sNVCBhUN9sXO/SUv8/dmAs=",
+  "Hash": "2Vsf/2j5Ie3n6k7K0WqA1i+vUz6QtpyNzm6GFIo8Vak=",
   "Source": "ContactsManager.UI",
   "BasePath": "_content/ContactsManager.UI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ContactsManager.UI\\wwwroot",
       "Source": "ContactsManager.UI",
-      "ContentRoot": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
       "BasePath": "_content/ContactsManager.UI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\error.svg",
+      "Identity": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\error.svg",
       "SourceId": "ContactsManager.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
       "BasePath": "_content/ContactsManager.UI",
       "RelativePath": "error#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\error.svg"
     },
     {
-      "Identity": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\favicon.ico",
       "SourceId": "ContactsManager.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
       "BasePath": "_content/ContactsManager.UI",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.min.js",
+      "Identity": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.min.js",
       "SourceId": "ContactsManager.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
       "BasePath": "_content/ContactsManager.UI",
       "RelativePath": "jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.validate.min.js",
       "SourceId": "ContactsManager.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
       "BasePath": "_content/ContactsManager.UI",
       "RelativePath": "jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ContactsManager.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
       "BasePath": "_content/ContactsManager.UI",
       "RelativePath": "jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\logo.png",
+      "Identity": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\logo.png",
       "SourceId": "ContactsManager.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
       "BasePath": "_content/ContactsManager.UI",
       "RelativePath": "logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "Identity": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
       "SourceId": "ContactsManager.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
       "BasePath": "_content/ContactsManager.UI",
       "RelativePath": "Rotativa/wkhtmltopdf#[.{fingerprint}]?.exe",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\Rotativa\\wkhtmltopdf.exe"
     },
     {
-      "Identity": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\StyleSheet.css",
+      "Identity": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\StyleSheet.css",
       "SourceId": "ContactsManager.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\",
       "BasePath": "_content/ContactsManager.UI",
       "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -188,7 +188,7 @@
   "Endpoints": [
     {
       "Route": "error.3iwubkh3iq.svg",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\error.svg",
+      "AssetFile": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\error.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -233,7 +233,7 @@
     },
     {
       "Route": "error.svg",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\error.svg",
+      "AssetFile": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\error.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -270,7 +270,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -315,7 +315,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -352,7 +352,7 @@
     },
     {
       "Route": "jquery.min.js",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.min.js",
+      "AssetFile": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -389,7 +389,7 @@
     },
     {
       "Route": "jquery.min.m9qm4tazc0.js",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.min.js",
+      "AssetFile": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -434,7 +434,7 @@
     },
     {
       "Route": "jquery.validate.min.gk0pw8i4co.js",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -479,7 +479,7 @@
     },
     {
       "Route": "jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -516,7 +516,7 @@
     },
     {
       "Route": "jquery.validate.unobtrusive.min.48y08845bh.js",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -561,7 +561,7 @@
     },
     {
       "Route": "jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -598,7 +598,7 @@
     },
     {
       "Route": "logo.n5ltc1qf5q.png",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\logo.png",
+      "AssetFile": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -643,7 +643,7 @@
     },
     {
       "Route": "logo.png",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\logo.png",
+      "AssetFile": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -680,7 +680,7 @@
     },
     {
       "Route": "Rotativa/wkhtmltopdf.cuquy3615b.exe",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "AssetFile": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -725,7 +725,7 @@
     },
     {
       "Route": "Rotativa/wkhtmltopdf.exe",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "AssetFile": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -762,7 +762,7 @@
     },
     {
       "Route": "StyleSheet.css",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\StyleSheet.css",
+      "AssetFile": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\StyleSheet.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -799,7 +799,7 @@
     },
     {
       "Route": "StyleSheet.i7ca96py24.css",
-      "AssetFile": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\StyleSheet.css",
+      "AssetFile": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\wwwroot\\StyleSheet.css",
       "Selectors": [],
       "ResponseHeaders": [
         {

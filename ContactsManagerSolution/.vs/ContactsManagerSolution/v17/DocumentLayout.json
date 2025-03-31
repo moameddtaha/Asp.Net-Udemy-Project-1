@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\",
+  "WorkspaceRootPath": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91F9877E-292A-4CE4-A2AB-0C26087AA7CC}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\negan\\desktop\\crud-operations\\contactsmanagersolution\\contactsmanager.ui\\startupextensions\\configureservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91F9877E-292A-4CE4-A2AB-0C26087AA7CC}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\startupextensions\\configureservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB433769-9295-4380-A7A8-C4065C51B98D}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\users\\negan\\desktop\\crud-operations\\contactsmanagersolution\\contactsmanager.core\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB433769-9295-4380-A7A8-C4065C51B98D}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91F9877E-292A-4CE4-A2AB-0C26087AA7CC}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\negan\\desktop\\crud-operations\\contactsmanagersolution\\contactsmanager.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91F9877E-292A-4CE4-A2AB-0C26087AA7CC}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\moham\\desktop\\crud-operations\\contactsmanagersolution\\contactsmanager.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91F9877E-292A-4CE4-A2AB-0C26087AA7CC}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91F9877E-292A-4CE4-A2AB-0C26087AA7CC}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\negan\\desktop\\crud-operations\\contactsmanagersolution\\contactsmanager.ui\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{91F9877E-292A-4CE4-A2AB-0C26087AA7CC}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\moham\\desktop\\crud-operations\\contactsmanagersolution\\contactsmanager.ui\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{91F9877E-292A-4CE4-A2AB-0C26087AA7CC}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB433769-9295-4380-A7A8-C4065C51B98D}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\users\\moham\\desktop\\crud-operations\\contactsmanagersolution\\contactsmanager.core\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB433769-9295-4380-A7A8-C4065C51B98D}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB433769-9295-4380-A7A8-C4065C51B98D}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\users\\moham\\desktop\\crud-operations\\contactsmanagersolution\\contactsmanager.core\\domain\\identityentities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB433769-9295-4380-A7A8-C4065C51B98D}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\domain\\identityentities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,62 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Core\\DTO\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "ContactsManager.Core\\DTO\\RegisterDTO.cs",
-              "ToolTip": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Core\\DTO\\RegisterDTO.cs",
-              "RelativeToolTip": "ContactsManager.Core\\DTO\\RegisterDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T15:30:07.322Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "ContactsManager.UI\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-24T15:54:22.076Z",
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Core\\Domain\\IdentityEntities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\Domain\\IdentityEntities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Core\\Domain\\IdentityEntities\\ApplicationUser.cs",
+              "RelativeToolTip": "ContactsManager.Core\\Domain\\IdentityEntities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:04:23.247Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "ContactsManager.UI\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "ContactsManager.UI\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Core\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\DTO\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Core\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "ContactsManager.Core\\DTO\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T16:15:00.738Z",
+              "WhenOpened": "2025-03-31T18:37:01.114Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ContactsManager.UI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA8wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T14:03:31.845Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ConfigureServicesExtension.cs",
-              "DocumentMoniker": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\StartupExtensions\\ConfigureServicesExtension.cs",
-              "RelativeDocumentMoniker": "ContactsManager.UI\\StartupExtensions\\ConfigureServicesExtension.cs",
-              "ToolTip": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\StartupExtensions\\ConfigureServicesExtension.cs",
-              "RelativeToolTip": "ContactsManager.UI\\StartupExtensions\\ConfigureServicesExtension.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwEUAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T22:22:22.648Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T19:13:30.055Z",
+              "IsPinned": true
             }
           ]
         }

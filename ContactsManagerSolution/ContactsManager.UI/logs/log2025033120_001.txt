@@ -1,0 +1,115 @@
+2025-03-31 20:48:48.749 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-31 20:48:48.756 +02:00 [INF] Hosting environment: Development
+2025-03-31 20:48:48.757 +02:00 [INF] Content root path: C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI
+2025-03-31 20:49:24.851 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-03-31 20:49:24.889 +02:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-03-31 20:49:24.900 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2025-03-31 20:53:38.477 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-03-31 20:53:38.505 +02:00 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2025-03-31 20:53:38.515 +02:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DECLARE @result int;
+EXEC @result = sp_getapplock @Resource = '__EFMigrationsLock', @LockOwner = 'Session', @LockMode = 'Exclusive';
+SELECT @result
+2025-03-31 20:53:38.595 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF OBJECT_ID(N'[__EFMigrationsHistory]') IS NULL
+BEGIN
+    CREATE TABLE [__EFMigrationsHistory] (
+        [MigrationId] nvarchar(150) NOT NULL,
+        [ProductVersion] nvarchar(32) NOT NULL,
+        CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+    );
+END;
+2025-03-31 20:53:38.600 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-03-31 20:53:38.601 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-03-31 20:53:38.603 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2025-03-31 20:53:38.613 +02:00 [INF] Reverting migration '20250331184759_InitialAfterReset'.
+2025-03-31 20:53:38.628 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DROP TABLE [AspNetRoleClaims];
+2025-03-31 20:53:38.629 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DROP TABLE [AspNetUserClaims];
+2025-03-31 20:53:38.630 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DROP TABLE [AspNetUserLogins];
+2025-03-31 20:53:38.631 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DROP TABLE [AspNetUserRoles];
+2025-03-31 20:53:38.631 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DROP TABLE [AspNetUserTokens];
+2025-03-31 20:53:38.632 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DROP TABLE [AspNetRoles];
+2025-03-31 20:53:38.633 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DROP TABLE [AspNetUsers];
+2025-03-31 20:53:38.634 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DELETE FROM [__EFMigrationsHistory]
+WHERE [MigrationId] = N'20250331184759_InitialAfterReset';
+2025-03-31 20:53:38.635 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DECLARE @result int;
+EXEC @result = sp_releaseapplock @Resource = '__EFMigrationsLock', @LockOwner = 'Session';
+SELECT @result
+2025-03-31 20:53:50.766 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-03-31 20:53:50.803 +02:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-03-31 20:53:50.811 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2025-03-31 20:55:21.131 +02:00 [INF] User profile is available. Using 'C:\Users\moham\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-03-31 20:55:21.276 +02:00 [INF] Now listening on: http://localhost:5124
+2025-03-31 20:55:22.044 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/ - null null
+2025-03-31 20:55:22.095 +02:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+2025-03-31 20:55:22.113 +02:00 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-03-31 20:55:22.154 +02:00 [INF] Route matched with {action = "Index", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller CRUDExample.Controllers.PersonsController (ContactsManager.UI).
+2025-03-31 20:55:22.269 +02:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-03-31 20:55:22.270 +02:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-03-31 20:55:22.270 +02:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-03-31 20:55:22.272 +02:00 [INF] PersonsListActionFilter.OnActionExecuting method
+2025-03-31 20:55:22.274 +02:00 [INF] Index action method of PersonsController
+2025-03-31 20:55:22.279 +02:00 [INF] GetFilteredPersons of PersonsService
+2025-03-31 20:55:22.281 +02:00 [INF] GetAllPersons of PersonsRepository
+2025-03-31 20:55:23.133 +02:00 [INF] Executed DbCommand (15ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[PersonID], [p].[Address], [p].[CountryID], [p].[DateOfBirth], [p].[Email], [p].[Gender], [p].[PersonName], [p].[ReceiveNewsLetter], [p].[TaxIdentificationNumber], [c].[CountryId], [c].[CountryName]
+FROM [Persons] AS [p]
+LEFT JOIN [Countries] AS [c] ON [p].[CountryID] = [c].[CountryId]
+2025-03-31 20:55:23.206 +02:00 [INF] Time for Filtered Persons from Database completed in 925.2 ms
+2025-03-31 20:55:23.216 +02:00 [INF] GetSortedPersons of PersonsService
+2025-03-31 20:55:23.225 +02:00 [INF] PersonsListActionFilter.OnActionExecuted method
+2025-03-31 20:55:23.251 +02:00 [INF] After logic - ResponseHeaderActionFilter
+2025-03-31 20:55:23.253 +02:00 [INF] After logic - ResponseHeaderActionFilter
+2025-03-31 20:55:23.253 +02:00 [INF] After logic - ResponseHeaderActionFilter
+2025-03-31 20:55:23.256 +02:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2025-03-31 20:55:23.263 +02:00 [INF] Executing ViewResult, running view Index.
+2025-03-31 20:55:23.386 +02:00 [INF] Executed ViewResult - view Index executed in 123.8704ms.
+2025-03-31 20:55:23.388 +02:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - after
+2025-03-31 20:55:23.391 +02:00 [INF] Executed action CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI) in 1234.7235ms
+2025-03-31 20:55:23.393 +02:00 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-03-31 20:55:23.395 +02:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Mon, 31 Mar 2025 18:55:23 GMT
+Server: Kestrel
+Last-Modified: 2025-03-31 20:55
+Transfer-Encoding: chunked
+my-key-from-global: [Redacted]
+my-key-from-action: [Redacted]
+my-key-from-controller: [Redacted]
+2025-03-31 20:55:23.398 +02:00 [INF] HTTP GET / responded 200 in 1305.1703 ms
+2025-03-31 20:55:23.401 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_vs/browserLink - null null
+2025-03-31 20:55:23.401 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-03-31 20:55:23.409 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 8.5459ms
+2025-03-31 20:55:23.411 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/ - 200 null text/html; charset=utf-8 1375.5727ms
+2025-03-31 20:55:23.428 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 27.6039ms

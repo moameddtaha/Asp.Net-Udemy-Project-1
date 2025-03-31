@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\ContactsManager.UI.csproj": {}
+    "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\ContactsManager.UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Core\\ContactsManager.Core.csproj": {
+    "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Core\\ContactsManager.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Core\\ContactsManager.Core.csproj",
+        "projectUniqueName": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Core\\ContactsManager.Core.csproj",
         "projectName": "ContactsManager.Core",
-        "projectPath": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Core\\ContactsManager.Core.csproj",
-        "packagesPath": "C:\\Users\\negan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Core\\obj\\",
+        "projectPath": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Core\\ContactsManager.Core.csproj",
+        "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\negan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -99,24 +99,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj": {
+    "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj",
         "projectName": "ContactsManager.Infrastructure",
-        "projectPath": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\negan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\negan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -131,8 +131,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Core\\ContactsManager.Core.csproj": {
-                "projectPath": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Core\\ContactsManager.Core.csproj"
+              "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Core\\ContactsManager.Core.csproj": {
+                "projectPath": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Core\\ContactsManager.Core.csproj"
               }
             }
           }
@@ -182,24 +182,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\ContactsManager.UI.csproj": {
+    "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\ContactsManager.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\ContactsManager.UI.csproj",
+        "projectUniqueName": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\ContactsManager.UI.csproj",
         "projectName": "ContactsManager.UI",
-        "projectPath": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\ContactsManager.UI.csproj",
-        "packagesPath": "C:\\Users\\negan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\obj\\",
+        "projectPath": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\ContactsManager.UI.csproj",
+        "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\negan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -214,11 +214,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Core\\ContactsManager.Core.csproj": {
-                "projectPath": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Core\\ContactsManager.Core.csproj"
+              "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Core\\ContactsManager.Core.csproj": {
+                "projectPath": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Core\\ContactsManager.Core.csproj"
               },
-              "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\negan\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj"
+              "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\moham\\Desktop\\crud-operations\\ContactsManagerSolution\\ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj"
               }
             }
           }
@@ -297,7 +297,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

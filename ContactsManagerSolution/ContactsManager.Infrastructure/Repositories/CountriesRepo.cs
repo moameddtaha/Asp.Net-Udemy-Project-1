@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Repos
+namespace ContactManager.Infrastructure.Repositories
 {
     public class CountriesRepo : ICountriesRepository
     {

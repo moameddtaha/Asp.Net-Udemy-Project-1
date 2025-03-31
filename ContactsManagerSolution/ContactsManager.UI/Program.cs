@@ -3,7 +3,7 @@ using Services;
 using Microsoft.EntityFrameworkCore;
 using Entities;
 using RepoCon;
-using Repos;
+using ContactManager.Infrastructure.Repositories;
 using Serilog;
 using CRUDExample.Filters.ActionFilters;
 using CRUDExample.Filters.ResultFilters;

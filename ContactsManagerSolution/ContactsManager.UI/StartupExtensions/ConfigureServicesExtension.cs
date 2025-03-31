@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using RepoCon;
-using Repos;
+using ContactManager.Infrastructure.Repositories;
 using ServiceContracts;
 using Services;
 

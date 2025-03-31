@@ -10,7 +10,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Repos
+namespace ContactManager.Infrastructure.Repositories
 {
     public class PersonsRepository : IPersonsRepository
     {
