@@ -45,8 +45,12 @@ if (builder.Environment.IsEnvironment("Test") == false)
 }
 
 app.UseStaticFiles();
-app.UseRouting();
-app.MapControllers();
+
+// Adds the authentication middleware to the request pipeline.
+// This enables the app to recognize the signed-in user based on the authentication cookie or token.
+app.UseAuthentication(); // Reading Identity cookie from the browser.
+app.UseRouting(); // Identitifying action method based on route.
+app.MapControllers(); // Execute the filter pipline (action + filter)
 
 app.Run();
 
