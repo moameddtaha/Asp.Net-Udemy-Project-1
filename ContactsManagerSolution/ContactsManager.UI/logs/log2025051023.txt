@@ -1,0 +1,542 @@
+2025-05-10 23:14:30.266 +03:00 [INF] User profile is available. Using 'C:\Users\moham\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-05-10 23:14:30.416 +03:00 [INF] Now listening on: http://localhost:5124
+2025-05-10 23:14:31.277 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/ - null null
+2025-05-10 23:14:31.378 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+2025-05-10 23:14:31.418 +03:00 [INF] Identity.Application was not authenticated. Failure message: Ticket expired
+2025-05-10 23:14:31.440 +03:00 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-05-10 23:14:31.504 +03:00 [INF] Route matched with {action = "Index", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller CRUDExample.Controllers.PersonsController (ContactsManager.UI).
+2025-05-10 23:14:31.721 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-05-10 23:14:31.722 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-05-10 23:14:31.723 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-05-10 23:14:31.726 +03:00 [INF] PersonsListActionFilter.OnActionExecuting method
+2025-05-10 23:14:31.728 +03:00 [INF] Index action method of PersonsController
+2025-05-10 23:14:31.735 +03:00 [INF] GetFilteredPersons of PersonsService
+2025-05-10 23:14:31.737 +03:00 [INF] GetAllPersons of PersonsRepository
+2025-05-10 23:14:32.900 +03:00 [INF] Executed DbCommand (19ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[PersonID], [p].[Address], [p].[CountryID], [p].[DateOfBirth], [p].[Email], [p].[Gender], [p].[PersonName], [p].[ReceiveNewsLetter], [p].[TaxIdentificationNumber], [c].[CountryId], [c].[CountryName]
+FROM [Persons] AS [p]
+LEFT JOIN [Countries] AS [c] ON [p].[CountryID] = [c].[CountryId]
+2025-05-10 23:14:32.986 +03:00 [INF] Time for Filtered Persons from Database completed in 1249.5 ms
+2025-05-10 23:14:32.999 +03:00 [INF] GetSortedPersons of PersonsService
+2025-05-10 23:14:33.017 +03:00 [INF] PersonsListActionFilter.OnActionExecuted method
+2025-05-10 23:14:33.064 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-05-10 23:14:33.066 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-05-10 23:14:33.068 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-05-10 23:14:33.073 +03:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2025-05-10 23:14:33.083 +03:00 [INF] Executing ViewResult, running view Index.
+2025-05-10 23:14:33.259 +03:00 [INF] Executed ViewResult - view Index executed in 179.3129ms.
+2025-05-10 23:14:33.262 +03:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - after
+2025-05-10 23:14:33.266 +03:00 [INF] Executed action CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI) in 1758.9497ms
+2025-05-10 23:14:33.269 +03:00 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-05-10 23:14:33.273 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Sat, 10 May 2025 20:14:32 GMT
+Server: Kestrel
+Last-Modified: 2025-05-10 23:14
+Transfer-Encoding: chunked
+my-key-from-global: [Redacted]
+my-key-from-action: [Redacted]
+my-key-from-controller: [Redacted]
+2025-05-10 23:14:33.278 +03:00 [INF] HTTP GET / responded 200 in 1904.5712 ms
+2025-05-10 23:14:33.292 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/ - 200 null text/html; charset=utf-8 2025.6947ms
+2025-05-10 23:14:33.295 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-10 23:14:33.295 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_vs/browserLink - null null
+2025-05-10 23:14:33.299 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/StyleSheet.css - null null
+2025-05-10 23:14:33.305 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 10.8992ms
+2025-05-10 23:14:33.309 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /StyleSheet.css
+2025-05-10 23:14:33.331 +03:00 [INF] Sending file. Request path: '/StyleSheet.css'. Physical path: 'C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\wwwroot\StyleSheet.css'
+2025-05-10 23:14:33.334 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Date: Sat, 10 May 2025 20:14:32 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Thu, 27 Feb 2025 10:10:49 GMT
+Content-Length: 11475
+2025-05-10 23:14:33.335 +03:00 [INF] HTTP GET /StyleSheet.css responded 200 in 25.6788 ms
+2025-05-10 23:14:33.338 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/StyleSheet.css - 200 11475 text/css 38.9258ms
+2025-05-10 23:14:33.355 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 60.9458ms
+2025-05-10 23:14:33.651 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/favicon.ico - null null
+2025-05-10 23:14:33.654 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /favicon.ico
+2025-05-10 23:14:33.667 +03:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\wwwroot\favicon.ico'
+2025-05-10 23:14:33.669 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: image/x-icon
+Date: Sat, 10 May 2025 20:14:33 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Thu, 06 Mar 2025 15:06:59 GMT
+Content-Length: 5430
+2025-05-10 23:14:33.670 +03:00 [INF] HTTP GET /favicon.ico responded 200 in 16.4216 ms
+2025-05-10 23:14:33.673 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/favicon.ico - 200 5430 image/x-icon 21.98ms
+2025-05-10 23:14:50.266 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/Account/Register - null null
+2025-05-10 23:14:50.273 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Register
+2025-05-10 23:14:50.275 +03:00 [INF] Identity.Application was not authenticated. Failure message: Ticket expired
+2025-05-10 23:14:50.278 +03:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-05-10 23:14:50.281 +03:00 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-05-10 23:14:50.288 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-05-10 23:14:50.290 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-05-10 23:14:50.291 +03:00 [INF] Executing ViewResult, running view Register.
+2025-05-10 23:14:50.335 +03:00 [INF] Executed ViewResult - view Register executed in 44.3676ms.
+2025-05-10 23:14:50.337 +03:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI) in 54.024ms
+2025-05-10 23:14:50.339 +03:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-05-10 23:14:50.340 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Sat, 10 May 2025 20:14:49 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+my-key-from-global: [Redacted]
+2025-05-10 23:14:50.341 +03:00 [INF] HTTP GET /Account/Register responded 200 in 68.4012 ms
+2025-05-10 23:14:50.344 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/Account/Register - 200 null text/html; charset=utf-8 77.3251ms
+2025-05-10 23:14:50.368 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_vs/browserLink - null null
+2025-05-10 23:14:50.369 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-10 23:14:50.374 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 5.6404ms
+2025-05-10 23:14:50.375 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 6.748ms
+2025-05-10 23:14:54.414 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/Account/Register - null null
+2025-05-10 23:14:54.419 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Register
+2025-05-10 23:14:54.422 +03:00 [INF] Identity.Application was not authenticated. Failure message: Ticket expired
+2025-05-10 23:14:54.423 +03:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-05-10 23:14:54.424 +03:00 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-05-10 23:14:54.430 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-05-10 23:14:54.430 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-05-10 23:14:54.431 +03:00 [INF] Executing ViewResult, running view Register.
+2025-05-10 23:14:54.435 +03:00 [INF] Executed ViewResult - view Register executed in 3.7369ms.
+2025-05-10 23:14:54.436 +03:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI) in 10.2481ms
+2025-05-10 23:14:54.438 +03:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-05-10 23:14:54.439 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Sat, 10 May 2025 20:14:53 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+my-key-from-global: [Redacted]
+2025-05-10 23:14:54.440 +03:00 [INF] HTTP GET /Account/Register responded 200 in 21.2297 ms
+2025-05-10 23:14:54.442 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/Account/Register - 200 null text/html; charset=utf-8 28.016ms
+2025-05-10 23:14:54.465 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_vs/browserLink - null null
+2025-05-10 23:14:54.466 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-10 23:14:54.472 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 5.5177ms
+2025-05-10 23:14:54.479 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 13.7149ms
+2025-05-10 23:14:56.147 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/Account/Register - null null
+2025-05-10 23:14:56.151 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Register
+2025-05-10 23:14:56.153 +03:00 [INF] Identity.Application was not authenticated. Failure message: Ticket expired
+2025-05-10 23:14:56.154 +03:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-05-10 23:14:56.155 +03:00 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-05-10 23:14:56.165 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-05-10 23:14:56.166 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-05-10 23:14:56.167 +03:00 [INF] Executing ViewResult, running view Register.
+2025-05-10 23:14:56.170 +03:00 [INF] Executed ViewResult - view Register executed in 3.1365ms.
+2025-05-10 23:14:56.172 +03:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI) in 15.405ms
+2025-05-10 23:14:56.173 +03:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-05-10 23:14:56.175 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Sat, 10 May 2025 20:14:55 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+my-key-from-global: [Redacted]
+2025-05-10 23:14:56.176 +03:00 [INF] HTTP GET /Account/Register responded 200 in 24.3797 ms
+2025-05-10 23:14:56.178 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/Account/Register - 200 null text/html; charset=utf-8 31.674ms
+2025-05-10 23:14:56.195 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_vs/browserLink - null null
+2025-05-10 23:14:56.195 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-10 23:14:56.201 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 5.3617ms
+2025-05-10 23:14:56.207 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 12.1799ms
+2025-05-10 23:18:02.208 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5124/Account/Register - application/x-www-form-urlencoded 280
+2025-05-10 23:18:02.219 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: http
+PathBase: 
+Path: /Account/Register
+2025-05-10 23:18:02.220 +03:00 [INF] Identity.Application was not authenticated. Failure message: Ticket expired
+2025-05-10 23:18:02.222 +03:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-05-10 23:18:02.228 +03:00 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(ContactsManager.Core.DTO.RegisterDTO) on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-05-10 23:18:02.243 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-05-10 23:18:02.249 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-05-10 23:18:02.250 +03:00 [INF] Executing ViewResult, running view Register.
+2025-05-10 23:18:02.259 +03:00 [INF] Executed ViewResult - view Register executed in 8.6586ms.
+2025-05-10 23:18:02.260 +03:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI) in 30.0764ms
+2025-05-10 23:18:02.261 +03:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-05-10 23:18:02.263 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Sat, 10 May 2025 20:18:02 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+my-key-from-global: [Redacted]
+2025-05-10 23:18:02.264 +03:00 [INF] HTTP POST /Account/Register responded 200 in 44.8887 ms
+2025-05-10 23:18:02.266 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5124/Account/Register - 200 null text/html; charset=utf-8 57.7687ms
+2025-05-10 23:18:02.314 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_vs/browserLink - null null
+2025-05-10 23:18:02.316 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-10 23:18:02.321 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 5.004ms
+2025-05-10 23:18:02.326 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 12.0508ms
+2025-05-10 23:18:17.546 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5124/Account/Register - application/x-www-form-urlencoded 284
+2025-05-10 23:18:17.550 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: http
+PathBase: 
+Path: /Account/Register
+2025-05-10 23:18:17.552 +03:00 [INF] Identity.Application was not authenticated. Failure message: Ticket expired
+2025-05-10 23:18:17.553 +03:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-05-10 23:18:17.554 +03:00 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(ContactsManager.Core.DTO.RegisterDTO) on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-05-10 23:18:17.557 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-05-10 23:18:17.559 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-05-10 23:18:17.560 +03:00 [INF] Executing ViewResult, running view Register.
+2025-05-10 23:18:17.562 +03:00 [INF] Executed ViewResult - view Register executed in 2.5833ms.
+2025-05-10 23:18:17.563 +03:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI) in 7.4355ms
+2025-05-10 23:18:17.565 +03:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-05-10 23:18:17.566 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Sat, 10 May 2025 20:18:17 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+my-key-from-global: [Redacted]
+2025-05-10 23:18:17.567 +03:00 [INF] HTTP POST /Account/Register responded 200 in 16.7481 ms
+2025-05-10 23:18:17.570 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5124/Account/Register - 200 null text/html; charset=utf-8 23.8206ms
+2025-05-10 23:18:17.609 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_vs/browserLink - null null
+2025-05-10 23:18:17.610 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-10 23:18:17.616 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 6.4061ms
+2025-05-10 23:18:17.616 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 5.4688ms
+2025-05-10 23:18:35.597 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5124/Account/Register - application/x-www-form-urlencoded 284
+2025-05-10 23:18:35.602 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: http
+PathBase: 
+Path: /Account/Register
+2025-05-10 23:18:35.604 +03:00 [INF] Identity.Application was not authenticated. Failure message: Ticket expired
+2025-05-10 23:18:35.606 +03:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-05-10 23:18:35.607 +03:00 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(ContactsManager.Core.DTO.RegisterDTO) on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-05-10 23:18:35.610 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-05-10 23:18:35.611 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-05-10 23:18:35.612 +03:00 [INF] Executing ViewResult, running view Register.
+2025-05-10 23:18:35.615 +03:00 [INF] Executed ViewResult - view Register executed in 3.0644ms.
+2025-05-10 23:18:35.617 +03:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI) in 7.7874ms
+2025-05-10 23:18:35.619 +03:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-05-10 23:18:35.620 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Sat, 10 May 2025 20:18:35 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+my-key-from-global: [Redacted]
+2025-05-10 23:18:35.621 +03:00 [INF] HTTP POST /Account/Register responded 200 in 19.6108 ms
+2025-05-10 23:18:35.623 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5124/Account/Register - 200 null text/html; charset=utf-8 25.9956ms
+2025-05-10 23:18:35.662 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_vs/browserLink - null null
+2025-05-10 23:18:35.662 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-10 23:18:35.669 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 6.2433ms
+2025-05-10 23:18:35.669 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 7.0767ms
+2025-05-10 23:19:05.035 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5124/Account/Register - application/x-www-form-urlencoded 286
+2025-05-10 23:19:05.044 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: http
+PathBase: 
+Path: /Account/Register
+2025-05-10 23:19:05.046 +03:00 [INF] Identity.Application was not authenticated. Failure message: Ticket expired
+2025-05-10 23:19:05.047 +03:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-05-10 23:19:05.048 +03:00 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(ContactsManager.Core.DTO.RegisterDTO) on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-05-10 23:19:05.050 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-05-10 23:19:05.051 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-05-10 23:19:05.052 +03:00 [INF] Executing ViewResult, running view Register.
+2025-05-10 23:19:05.054 +03:00 [INF] Executed ViewResult - view Register executed in 2.2693ms.
+2025-05-10 23:19:05.056 +03:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI) in 5.8701ms
+2025-05-10 23:19:05.057 +03:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-05-10 23:19:05.058 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Sat, 10 May 2025 20:19:04 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+my-key-from-global: [Redacted]
+2025-05-10 23:19:05.060 +03:00 [INF] HTTP POST /Account/Register responded 200 in 15.3666 ms
+2025-05-10 23:19:05.062 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5124/Account/Register - 200 null text/html; charset=utf-8 26.7545ms
+2025-05-10 23:19:05.101 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_vs/browserLink - null null
+2025-05-10 23:19:05.102 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-10 23:19:05.107 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 5.3839ms
+2025-05-10 23:19:05.108 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 7.4881ms
+2025-05-10 23:19:13.309 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5124/Account/Register - application/x-www-form-urlencoded 278
+2025-05-10 23:19:13.313 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: http
+PathBase: 
+Path: /Account/Register
+2025-05-10 23:19:13.314 +03:00 [INF] Identity.Application was not authenticated. Failure message: Ticket expired
+2025-05-10 23:19:13.315 +03:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-05-10 23:19:13.316 +03:00 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(ContactsManager.Core.DTO.RegisterDTO) on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-05-10 23:19:13.319 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-05-10 23:19:13.320 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-05-10 23:19:13.321 +03:00 [INF] Executing ViewResult, running view Register.
+2025-05-10 23:19:13.323 +03:00 [INF] Executed ViewResult - view Register executed in 2.6512ms.
+2025-05-10 23:19:13.325 +03:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI) in 6.8408ms
+2025-05-10 23:19:13.326 +03:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-05-10 23:19:13.327 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Sat, 10 May 2025 20:19:12 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+my-key-from-global: [Redacted]
+2025-05-10 23:19:13.328 +03:00 [INF] HTTP POST /Account/Register responded 200 in 15.3913 ms
+2025-05-10 23:19:13.331 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5124/Account/Register - 200 null text/html; charset=utf-8 22.0383ms
+2025-05-10 23:19:13.366 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_vs/browserLink - null null
+2025-05-10 23:19:13.369 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-10 23:19:13.372 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 6.3922ms
+2025-05-10 23:19:13.373 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 4.1362ms
+2025-05-10 23:19:27.124 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5124/Account/Register - application/x-www-form-urlencoded 268
+2025-05-10 23:19:27.128 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: http
+PathBase: 
+Path: /Account/Register
+2025-05-10 23:19:27.130 +03:00 [INF] Identity.Application was not authenticated. Failure message: Ticket expired
+2025-05-10 23:19:27.131 +03:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-05-10 23:19:27.132 +03:00 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(ContactsManager.Core.DTO.RegisterDTO) on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-05-10 23:19:27.135 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-05-10 23:19:27.136 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-05-10 23:19:27.137 +03:00 [INF] Executing ViewResult, running view Register.
+2025-05-10 23:19:27.139 +03:00 [INF] Executed ViewResult - view Register executed in 1.9802ms.
+2025-05-10 23:19:27.141 +03:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI) in 6.794ms
+2025-05-10 23:19:27.142 +03:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-05-10 23:19:27.143 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Sat, 10 May 2025 20:19:27 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+my-key-from-global: [Redacted]
+2025-05-10 23:19:27.144 +03:00 [INF] HTTP POST /Account/Register responded 200 in 16.0710 ms
+2025-05-10 23:19:27.146 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5124/Account/Register - 200 null text/html; charset=utf-8 22.4599ms
+2025-05-10 23:19:27.182 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_vs/browserLink - null null
+2025-05-10 23:19:27.183 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-10 23:19:27.189 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 6.1268ms
+2025-05-10 23:19:27.189 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 6.834ms
+2025-05-10 23:24:25.404 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5124/Account/Register - application/x-www-form-urlencoded 290
+2025-05-10 23:24:25.416 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: POST
+Scheme: http
+PathBase: 
+Path: /Account/Register
+2025-05-10 23:24:25.417 +03:00 [INF] Identity.Application was not authenticated. Failure message: Ticket expired
+2025-05-10 23:24:25.419 +03:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-05-10 23:24:25.420 +03:00 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(ContactsManager.Core.DTO.RegisterDTO) on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-05-10 23:24:25.423 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-05-10 23:24:25.557 +03:00 [INF] Executed DbCommand (8ms) [Parameters=[@__normalizedUserName_0='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [a].[Id], [a].[AccessFailedCount], [a].[ConcurrencyStamp], [a].[Email], [a].[EmailConfirmed], [a].[LockoutEnabled], [a].[LockoutEnd], [a].[NormalizedEmail], [a].[NormalizedUserName], [a].[PasswordHash], [a].[PersonName], [a].[PhoneNumber], [a].[PhoneNumberConfirmed], [a].[SecurityStamp], [a].[TwoFactorEnabled], [a].[UserName]
+FROM [AspNetUsers] AS [a]
+WHERE [a].[NormalizedUserName] = @__normalizedUserName_0
+2025-05-10 23:24:25.675 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (Size = 256), @p4='?' (DbType = Boolean), @p5='?' (DbType = Boolean), @p6='?' (DbType = DateTimeOffset), @p7='?' (Size = 256), @p8='?' (Size = 256), @p9='?' (Size = 4000), @p10='?' (Size = 4000), @p11='?' (Size = 4000), @p12='?' (DbType = Boolean), @p13='?' (Size = 4000), @p14='?' (DbType = Boolean), @p15='?' (Size = 256)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [AspNetUsers] ([Id], [AccessFailedCount], [ConcurrencyStamp], [Email], [EmailConfirmed], [LockoutEnabled], [LockoutEnd], [NormalizedEmail], [NormalizedUserName], [PasswordHash], [PersonName], [PhoneNumber], [PhoneNumberConfirmed], [SecurityStamp], [TwoFactorEnabled], [UserName])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15);
+2025-05-10 23:24:25.707 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[@__user_Id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a].[Id], [a].[ClaimType], [a].[ClaimValue], [a].[UserId]
+FROM [AspNetUserClaims] AS [a]
+WHERE [a].[UserId] = @__user_Id_0
+2025-05-10 23:24:25.727 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[@__userId_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT [a0].[Name]
+FROM [AspNetUserRoles] AS [a]
+INNER JOIN [AspNetRoles] AS [a0] ON [a].[RoleId] = [a0].[Id]
+WHERE [a].[UserId] = @__userId_0
+2025-05-10 23:24:25.736 +03:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2025-05-10 23:24:25.737 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-05-10 23:24:25.739 +03:00 [INF] Executing RedirectResult, redirecting to /Persons/Index.
+2025-05-10 23:24:25.740 +03:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI) in 318.7988ms
+2025-05-10 23:24:25.742 +03:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-05-10 23:24:25.743 +03:00 [INF] Response:
+StatusCode: 302
+Cache-Control: [Redacted]
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Location: /Persons/Index
+Pragma: [Redacted]
+Set-Cookie: [Redacted]
+my-key-from-global: [Redacted]
+2025-05-10 23:24:25.744 +03:00 [INF] HTTP POST /Account/Register responded 302 in 328.3454 ms
+2025-05-10 23:24:25.747 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5124/Account/Register - 302 0 null 342.5745ms
+2025-05-10 23:24:25.750 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/Persons/Index - null null
+2025-05-10 23:24:25.754 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Persons/Index
+2025-05-10 23:24:25.759 +03:00 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-05-10 23:24:25.763 +03:00 [INF] Route matched with {action = "Index", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller CRUDExample.Controllers.PersonsController (ContactsManager.UI).
+2025-05-10 23:24:25.767 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-05-10 23:24:25.768 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-05-10 23:24:25.769 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-05-10 23:24:25.770 +03:00 [INF] PersonsListActionFilter.OnActionExecuting method
+2025-05-10 23:24:25.771 +03:00 [INF] Index action method of PersonsController
+2025-05-10 23:24:25.773 +03:00 [INF] GetFilteredPersons of PersonsService
+2025-05-10 23:24:25.774 +03:00 [INF] GetAllPersons of PersonsRepository
+2025-05-10 23:24:25.814 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[PersonID], [p].[Address], [p].[CountryID], [p].[DateOfBirth], [p].[Email], [p].[Gender], [p].[PersonName], [p].[ReceiveNewsLetter], [p].[TaxIdentificationNumber], [c].[CountryId], [c].[CountryName]
+FROM [Persons] AS [p]
+LEFT JOIN [Countries] AS [c] ON [p].[CountryID] = [c].[CountryId]
+2025-05-10 23:24:25.820 +03:00 [INF] Time for Filtered Persons from Database completed in 46.1 ms
+2025-05-10 23:24:25.822 +03:00 [INF] GetSortedPersons of PersonsService
+2025-05-10 23:24:25.823 +03:00 [INF] PersonsListActionFilter.OnActionExecuted method
+2025-05-10 23:24:25.824 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-05-10 23:24:25.825 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-05-10 23:24:25.826 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-05-10 23:24:25.827 +03:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2025-05-10 23:24:25.828 +03:00 [INF] Executing ViewResult, running view Index.
+2025-05-10 23:24:25.832 +03:00 [INF] Executed ViewResult - view Index executed in 3.677ms.
+2025-05-10 23:24:25.833 +03:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - after
+2025-05-10 23:24:25.835 +03:00 [INF] Executed action CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI) in 69.8621ms
+2025-05-10 23:24:25.837 +03:00 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-05-10 23:24:25.838 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Sat, 10 May 2025 20:24:25 GMT
+Server: Kestrel
+Last-Modified: 2025-05-10 23:24
+Transfer-Encoding: chunked
+my-key-from-global: [Redacted]
+my-key-from-action: [Redacted]
+my-key-from-controller: [Redacted]
+2025-05-10 23:24:25.840 +03:00 [INF] HTTP GET /Persons/Index responded 200 in 85.3953 ms
+2025-05-10 23:24:25.843 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/Persons/Index - 200 null text/html; charset=utf-8 92.8773ms
+2025-05-10 23:24:25.869 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_vs/browserLink - null null
+2025-05-10 23:24:25.874 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-10 23:24:25.881 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 11.7927ms
+2025-05-10 23:24:25.883 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 9.7548ms
+2025-05-10 23:24:30.218 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/StyleSheet.css - null null
+2025-05-10 23:24:30.219 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/StyleSheet.css - null null
+2025-05-10 23:24:30.221 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /StyleSheet.css
+2025-05-10 23:24:30.224 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /StyleSheet.css
+2025-05-10 23:24:30.227 +03:00 [INF] Sending file. Request path: '/StyleSheet.css'. Physical path: 'C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\wwwroot\StyleSheet.css'
+2025-05-10 23:24:30.227 +03:00 [INF] Sending file. Request path: '/StyleSheet.css'. Physical path: 'C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\wwwroot\StyleSheet.css'
+2025-05-10 23:24:30.228 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Thu, 27 Feb 2025 10:10:49 GMT
+Content-Length: 11475
+2025-05-10 23:24:30.230 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Thu, 27 Feb 2025 10:10:49 GMT
+Content-Length: 11475
+2025-05-10 23:24:30.231 +03:00 [INF] HTTP GET /StyleSheet.css responded 200 in 10.3121 ms
+2025-05-10 23:24:30.232 +03:00 [INF] HTTP GET /StyleSheet.css responded 200 in 8.3199 ms
+2025-05-10 23:24:30.234 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/StyleSheet.css - 499 11475 text/css 15.8176ms
+2025-05-10 23:24:30.235 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/StyleSheet.css - 499 11475 text/css 15.9691ms
+2025-05-10 23:24:45.359 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/Persons/Index - null null
+2025-05-10 23:24:45.363 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Persons/Index
+2025-05-10 23:24:45.366 +03:00 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-05-10 23:24:45.368 +03:00 [INF] Route matched with {action = "Index", controller = "Persons"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller CRUDExample.Controllers.PersonsController (ContactsManager.UI).
+2025-05-10 23:24:45.375 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-05-10 23:24:45.376 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-05-10 23:24:45.377 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-05-10 23:24:45.378 +03:00 [INF] PersonsListActionFilter.OnActionExecuting method
+2025-05-10 23:24:45.379 +03:00 [INF] Index action method of PersonsController
+2025-05-10 23:24:45.380 +03:00 [INF] GetFilteredPersons of PersonsService
+2025-05-10 23:24:45.381 +03:00 [INF] GetAllPersons of PersonsRepository
+2025-05-10 23:24:45.385 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[PersonID], [p].[Address], [p].[CountryID], [p].[DateOfBirth], [p].[Email], [p].[Gender], [p].[PersonName], [p].[ReceiveNewsLetter], [p].[TaxIdentificationNumber], [c].[CountryId], [c].[CountryName]
+FROM [Persons] AS [p]
+LEFT JOIN [Countries] AS [c] ON [p].[CountryID] = [c].[CountryId]
+2025-05-10 23:24:45.391 +03:00 [INF] Time for Filtered Persons from Database completed in 9.5 ms
+2025-05-10 23:24:45.393 +03:00 [INF] GetSortedPersons of PersonsService
+2025-05-10 23:24:45.394 +03:00 [INF] PersonsListActionFilter.OnActionExecuted method
+2025-05-10 23:24:45.395 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-05-10 23:24:45.396 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-05-10 23:24:45.397 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-05-10 23:24:45.398 +03:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2025-05-10 23:24:45.399 +03:00 [INF] Executing ViewResult, running view Index.
+2025-05-10 23:24:45.403 +03:00 [INF] Executed ViewResult - view Index executed in 3.2807ms.
+2025-05-10 23:24:45.404 +03:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - after
+2025-05-10 23:24:45.406 +03:00 [INF] Executed action CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI) in 36.1743ms
+2025-05-10 23:24:45.407 +03:00 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-05-10 23:24:45.409 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Sat, 10 May 2025 20:24:44 GMT
+Server: Kestrel
+Last-Modified: 2025-05-10 23:24
+Transfer-Encoding: chunked
+my-key-from-global: [Redacted]
+my-key-from-action: [Redacted]
+my-key-from-controller: [Redacted]
+2025-05-10 23:24:45.410 +03:00 [INF] HTTP GET /Persons/Index responded 200 in 46.8472 ms
+2025-05-10 23:24:45.412 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/Persons/Index - 200 null text/html; charset=utf-8 53.748ms
+2025-05-10 23:24:45.458 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_vs/browserLink - null null
+2025-05-10 23:24:45.461 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-10 23:24:45.466 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 8.3263ms
+2025-05-10 23:24:45.466 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 5.2468ms

@@ -224,8 +224,8 @@ C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.U
 C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net8.0\Resources\countries.json
 C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net8.0\Resources\MOCK_DATA.json
 C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net8.0\Resources\persons.json
-C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net8.0\ContactsManager.UI.staticwebassets.endpoints.json
 C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net8.0\ContactsManager.UI.staticwebassets.runtime.json
+C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net8.0\ContactsManager.UI.staticwebassets.endpoints.json
 C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net8.0\ContactsManager.UI.exe
 C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net8.0\ContactsManager.UI.deps.json
 C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net8.0\ContactsManager.UI.runtimeconfig.json

@@ -180,8 +180,8 @@ C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.S
 C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.ServiceTests\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
 C:\Users\negan\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.ServiceTests\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
 C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.ServiceTests\bin\Debug\net8.0\CoverletSourceRootsMapping_ContactsManager.ServiceTests
-C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.ServiceTests\bin\Debug\net8.0\testhost.exe
 C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.ServiceTests\bin\Debug\net8.0\testhost.dll
+C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.ServiceTests\bin\Debug\net8.0\testhost.exe
 C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.ServiceTests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.ServiceTests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
 C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.ServiceTests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
