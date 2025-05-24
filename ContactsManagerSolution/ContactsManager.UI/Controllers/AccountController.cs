@@ -28,7 +28,7 @@ namespace ContactsManager.UI.Controllers
         public async Task<IActionResult> Register(RegisterDTO registerDTO)
         {
             // Check for validation erros
-            if(ModelState.IsValid == false)
+            if (ModelState.IsValid == false)
             {
                 ViewBag.Errors = ModelState.Values.SelectMany(x => x.Errors).Select(x => x.ErrorMessage).ToList();
                 return View(registerDTO);
@@ -40,7 +40,7 @@ namespace ContactsManager.UI.Controllers
                 UserName = registerDTO.Email,
                 PhoneNumber = registerDTO.Phone,
                 PersonName = registerDTO.PersonName
-                
+
             };
 
             IdentityResult result = await _userManager.CreateAsync(user, registerDTO.Password);
@@ -62,6 +62,48 @@ namespace ContactsManager.UI.Controllers
 
                 return View(registerDTO);
             }
+        }
+
+        [HttpGet]
+        public IActionResult Login()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Login(LoginDTO loginDTO)
+        {
+            if (!ModelState.IsValid)
+            {
+                ViewBag.Errors = ModelState.Values
+                    .SelectMany(x => x.Errors)
+                    .Select(x => x.ErrorMessage)
+                    .ToList();
+                return View(loginDTO);
+            }
+
+            var result = await _signInManager.PasswordSignInAsync(
+                loginDTO.Email,
+                loginDTO.Password,
+                isPersistent: false,
+                lockoutOnFailure: false
+                );
+
+            if (result.Succeeded)
+            {
+                // Redirect to Persons Index
+                return RedirectToAction(nameof(PersonsController.Index), "Persons");
+            }
+
+            ModelState.AddModelError("Login", "Invalid login attempt. Please check your email and password.");
+
+            return View(loginDTO);
+        }
+
+        public async Task<IActionResult> Logout()
+        {
+            await _signInManager.SignOutAsync();
+            return RedirectToAction(nameof(PersonsController.Index), "Persons");
         }
     }
 }
