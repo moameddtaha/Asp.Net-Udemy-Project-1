@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ContactsManager.UI.Controllers
 {
-    [Route("[controller]/[action]")]
+    //[Route("[controller]/[action]")]
     [AllowAnonymous] // Allow anonymous access to all actions in this controller
     public class AccountController : Controller
     {

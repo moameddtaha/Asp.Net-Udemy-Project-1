@@ -53,6 +53,11 @@ app.UseAuthentication(); // Reading Identity cookie from the browser.
 app.UseAuthorization(); // Checking if the user is authorized to access the resource.
 app.MapControllers(); // Execute the filter pipline (action + filter)
 
+// Conventional Routing
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller}/{action}/{id?}"); // Eg: /Persons/Index/1
+
 app.Run();
 
 public partial class Program { } // Make the auto-generated Program accessible programmatically
