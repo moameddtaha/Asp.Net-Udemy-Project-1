@@ -73,7 +73,7 @@ namespace ContactsManager.UI.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Login(LoginDTO loginDTO)
+        public async Task<IActionResult> Login(LoginDTO loginDTO, string? ReturnUrl)
         {
             if (!ModelState.IsValid)
             {
@@ -93,6 +93,10 @@ namespace ContactsManager.UI.Controllers
 
             if (result.Succeeded)
             {
+                if(!string.IsNullOrEmpty(ReturnUrl) && Url.IsLocalUrl(ReturnUrl))
+                {
+                    return LocalRedirect(ReturnUrl);
+                }
                 // Redirect to Persons Index
                 return RedirectToAction(nameof(PersonsController.Index), "Persons");
             }

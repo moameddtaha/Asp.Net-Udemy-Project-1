@@ -15,7 +15,7 @@
     Not yet registered <a asp-controller="Account" asp-action="Register" class="link-hover">Register</a>
     <h2 class="text-large">Login</h2>
 
-    <form asp-controller="Account" asp-action="Login" method="post">
+    <form asp-controller="Account" asp-action="Login" asp-route-ReturnUrl="@Context.Request.Query["ReturnUrl"]" method="post">
         
         @*Email*@
         <div class="form-field flex">

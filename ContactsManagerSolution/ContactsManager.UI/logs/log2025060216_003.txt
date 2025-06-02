@@ -1,3 +1,219 @@
 2025-06-02 16:09:38.019 +03:00 [INF] Application started. Press Ctrl+C to shut down.
 2025-06-02 16:09:38.030 +03:00 [INF] Hosting environment: Development
 2025-06-02 16:09:38.032 +03:00 [INF] Content root path: C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI
+2025-06-02 16:19:56.261 +03:00 [INF] User profile is available. Using 'C:\Users\moham\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-06-02 16:19:56.432 +03:00 [INF] Now listening on: http://localhost:5124
+2025-06-02 16:20:00.105 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/ - null null
+2025-06-02 16:20:00.197 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+2025-06-02 16:20:00.234 +03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-06-02 16:20:00.312 +03:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2025-06-02 16:20:00.315 +03:00 [INF] Response:
+StatusCode: 302
+Location: http://localhost:5124/Account/Login?ReturnUrl=%2F
+2025-06-02 16:20:00.318 +03:00 [INF] HTTP GET / responded 302 in 127.4680 ms
+2025-06-02 16:20:00.325 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/ - 302 0 null 229.9765ms
+2025-06-02 16:20:00.332 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/Account/Login?ReturnUrl=%2F - null null
+2025-06-02 16:20:00.339 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Login
+2025-06-02 16:20:00.349 +03:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2025-06-02 16:20:00.383 +03:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-06-02 16:20:00.510 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-06-02 16:20:00.512 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-06-02 16:20:00.528 +03:00 [INF] Executing ViewResult, running view Login.
+2025-06-02 16:20:00.732 +03:00 [INF] Executed ViewResult - view Login executed in 211.794ms.
+2025-06-02 16:20:00.736 +03:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 349.5056ms
+2025-06-02 16:20:00.739 +03:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2025-06-02 16:20:00.742 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Mon, 02 Jun 2025 13:20:00 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+my-key-from-global: [Redacted]
+2025-06-02 16:20:00.744 +03:00 [INF] HTTP GET /Account/Login responded 200 in 405.1160 ms
+2025-06-02 16:20:00.754 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/Account/Login?ReturnUrl=%2F - 200 null text/html; charset=utf-8 422.3508ms
+2025-06-02 16:20:00.806 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-02 16:20:00.813 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 6.9085ms
+2025-06-02 16:20:00.818 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/StyleSheet.css - null null
+2025-06-02 16:20:00.820 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_vs/browserLink - null null
+2025-06-02 16:20:00.823 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /StyleSheet.css
+2025-06-02 16:20:00.843 +03:00 [INF] Sending file. Request path: '/StyleSheet.css'. Physical path: 'C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\wwwroot\StyleSheet.css'
+2025-06-02 16:20:00.845 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Thu, 27 Feb 2025 10:10:49 GMT
+Content-Length: 11475
+2025-06-02 16:20:00.847 +03:00 [INF] HTTP GET /StyleSheet.css responded 200 in 24.3670 ms
+2025-06-02 16:20:00.852 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/StyleSheet.css - 499 11475 text/css 33.1459ms
+2025-06-02 16:20:00.883 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 63.5382ms
+2025-06-02 16:20:01.150 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/favicon.ico - null null
+2025-06-02 16:20:01.155 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /favicon.ico
+2025-06-02 16:20:01.162 +03:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\wwwroot\favicon.ico'
+2025-06-02 16:20:01.164 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: image/x-icon
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Thu, 06 Mar 2025 15:06:59 GMT
+Content-Length: 5430
+2025-06-02 16:20:01.165 +03:00 [INF] HTTP GET /favicon.ico responded 200 in 10.3805 ms
+2025-06-02 16:20:01.169 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/favicon.ico - 499 5430 image/x-icon 18.0682ms
+2025-06-02 16:20:03.227 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/Countries/UploadFromExcel - null null
+2025-06-02 16:20:03.235 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Countries/UploadFromExcel
+2025-06-02 16:20:03.240 +03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-06-02 16:20:03.242 +03:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2025-06-02 16:20:03.244 +03:00 [INF] Response:
+StatusCode: 302
+Location: http://localhost:5124/Account/Login?ReturnUrl=%2FCountries%2FUploadFromExcel
+2025-06-02 16:20:03.245 +03:00 [INF] HTTP GET /Countries/UploadFromExcel responded 302 in 9.2431 ms
+2025-06-02 16:20:03.247 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/Countries/UploadFromExcel - 302 0 null 19.7324ms
+2025-06-02 16:20:03.252 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/Account/Login?ReturnUrl=%2FCountries%2FUploadFromExcel - null null
+2025-06-02 16:20:03.256 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Login
+2025-06-02 16:20:03.258 +03:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2025-06-02 16:20:03.260 +03:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-06-02 16:20:03.271 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-06-02 16:20:03.272 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-06-02 16:20:03.274 +03:00 [INF] Executing ViewResult, running view Login.
+2025-06-02 16:20:03.281 +03:00 [INF] Executed ViewResult - view Login executed in 7.5281ms.
+2025-06-02 16:20:03.283 +03:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 20.735ms
+2025-06-02 16:20:03.285 +03:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2025-06-02 16:20:03.287 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Mon, 02 Jun 2025 13:20:02 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+my-key-from-global: [Redacted]
+2025-06-02 16:20:03.289 +03:00 [INF] HTTP GET /Account/Login responded 200 in 32.1121 ms
+2025-06-02 16:20:03.291 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/Account/Login?ReturnUrl=%2FCountries%2FUploadFromExcel - 200 null text/html; charset=utf-8 39.0515ms
+2025-06-02 16:20:03.316 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_vs/browserLink - null null
+2025-06-02 16:20:03.320 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-02 16:20:03.326 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 6.4911ms
+2025-06-02 16:20:03.330 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 14.1522ms
+2025-06-02 16:20:04.268 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/Persons/Index - null null
+2025-06-02 16:20:04.275 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Persons/Index
+2025-06-02 16:20:04.277 +03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-06-02 16:20:04.278 +03:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2025-06-02 16:20:04.280 +03:00 [INF] Response:
+StatusCode: 302
+Location: http://localhost:5124/Account/Login?ReturnUrl=%2FPersons%2FIndex
+2025-06-02 16:20:04.281 +03:00 [INF] HTTP GET /Persons/Index responded 302 in 5.6904 ms
+2025-06-02 16:20:04.283 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/Persons/Index - 302 0 null 14.8697ms
+2025-06-02 16:20:04.288 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/Account/Login?ReturnUrl=%2FPersons%2FIndex - null null
+2025-06-02 16:20:04.292 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Login
+2025-06-02 16:20:04.294 +03:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2025-06-02 16:20:04.295 +03:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-06-02 16:20:04.310 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-06-02 16:20:04.311 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-06-02 16:20:04.312 +03:00 [INF] Executing ViewResult, running view Login.
+2025-06-02 16:20:04.316 +03:00 [INF] Executed ViewResult - view Login executed in 3.8975ms.
+2025-06-02 16:20:04.318 +03:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 20.7307ms
+2025-06-02 16:20:04.321 +03:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2025-06-02 16:20:04.323 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Mon, 02 Jun 2025 13:20:03 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+my-key-from-global: [Redacted]
+2025-06-02 16:20:04.325 +03:00 [INF] HTTP GET /Account/Login responded 200 in 32.4269 ms
+2025-06-02 16:20:04.327 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/Account/Login?ReturnUrl=%2FPersons%2FIndex - 200 null text/html; charset=utf-8 39.5961ms
+2025-06-02 16:20:04.351 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_vs/browserLink - null null
+2025-06-02 16:20:04.353 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-02 16:20:04.362 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 9.4889ms
+2025-06-02 16:20:04.365 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 13.2829ms
+2025-06-02 16:20:07.773 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/Countries/UploadFromExcel - null null
+2025-06-02 16:20:07.781 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Countries/UploadFromExcel
+2025-06-02 16:20:07.783 +03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-06-02 16:20:07.784 +03:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2025-06-02 16:20:07.788 +03:00 [INF] Response:
+StatusCode: 302
+Location: http://localhost:5124/Account/Login?ReturnUrl=%2FCountries%2FUploadFromExcel
+2025-06-02 16:20:07.789 +03:00 [INF] HTTP GET /Countries/UploadFromExcel responded 302 in 7.8810 ms
+2025-06-02 16:20:07.792 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/Countries/UploadFromExcel - 302 0 null 18.8966ms
+2025-06-02 16:20:07.796 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/Account/Login?ReturnUrl=%2FCountries%2FUploadFromExcel - null null
+2025-06-02 16:20:07.802 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Login
+2025-06-02 16:20:07.803 +03:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2025-06-02 16:20:07.805 +03:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-06-02 16:20:07.808 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-06-02 16:20:07.809 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-06-02 16:20:07.810 +03:00 [INF] Executing ViewResult, running view Login.
+2025-06-02 16:20:07.813 +03:00 [INF] Executed ViewResult - view Login executed in 3.376ms.
+2025-06-02 16:20:07.815 +03:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 7.9184ms
+2025-06-02 16:20:07.819 +03:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2025-06-02 16:20:07.821 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Mon, 02 Jun 2025 13:20:07 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+my-key-from-global: [Redacted]
+2025-06-02 16:20:07.822 +03:00 [INF] HTTP GET /Account/Login responded 200 in 20.1738 ms
+2025-06-02 16:20:07.825 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/Account/Login?ReturnUrl=%2FCountries%2FUploadFromExcel - 200 null text/html; charset=utf-8 28.5691ms
+2025-06-02 16:20:07.862 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_vs/browserLink - null null
+2025-06-02 16:20:07.868 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-02 16:20:07.872 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 9.8187ms
+2025-06-02 16:20:07.874 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 5.3699ms
