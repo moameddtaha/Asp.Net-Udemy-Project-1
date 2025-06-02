@@ -48,8 +48,9 @@ app.UseStaticFiles();
 
 // Adds the authentication middleware to the request pipeline.
 // This enables the app to recognize the signed-in user based on the authentication cookie or token.
-app.UseAuthentication(); // Reading Identity cookie from the browser.
 app.UseRouting(); // Identitifying action method based on route.
+app.UseAuthentication(); // Reading Identity cookie from the browser.
+app.UseAuthorization(); // Checking if the user is authorized to access the resource.
 app.MapControllers(); // Execute the filter pipline (action + filter)
 
 app.Run();

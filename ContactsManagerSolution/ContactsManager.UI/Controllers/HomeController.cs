@@ -1,8 +1,10 @@
-﻿using Microsoft.AspNetCore.Diagnostics;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CRUDExample.Controllers
 {
+    [AllowAnonymous] // Allow anonymous access to all actions in this controller
     public class HomeController : Controller
     {
         [Route("Error")]

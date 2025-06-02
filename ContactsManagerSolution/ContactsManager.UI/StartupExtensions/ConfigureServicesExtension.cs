@@ -10,6 +10,7 @@ using RepoCon;
 using ContactManager.Infrastructure.Repositories;
 using ServiceContracts;
 using Services;
+using Microsoft.AspNetCore.Authorization;
 
 namespace CRUDExample
 {
@@ -52,12 +53,12 @@ namespace CRUDExample
             services.AddScoped<IPersonsRepository, PersonsRepository>();
             services.AddTransient<PersonsListResultFilter>();
 
+            services.AddTransient<PersonsListActionFilter>();
+
             services.AddDbContext<ApplicationDbContext>(options =>
             {
                 options.UseSqlServer(configuration.GetConnectionString("DefaultConnection"));
             });
-
-            services.AddTransient<PersonsListActionFilter>();
 
             // Enable Identity in this project
             services.AddIdentity<ApplicationUser, ApplicationRole>((options) =>
@@ -76,6 +77,17 @@ namespace CRUDExample
                 .AddUserStore<UserStore<ApplicationUser, ApplicationRole, ApplicationDbContext, Guid>>()
 
                 .AddRoleStore<RoleStore<ApplicationRole, ApplicationDbContext, Guid>>();
+
+            services.AddAuthorization(options =>
+            {
+                options.FallbackPolicy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser()
+                    .Build(); // Enforeces authorization policy (user must be authenticated) for all action methods.
+            });
+
+            services.ConfigureApplicationCookie(options =>
+            {
+                options.LoginPath = "/Account/Login";
+            });
 
             // Register HTTP Logging services with configuration
             services.AddHttpLogging(options =>
