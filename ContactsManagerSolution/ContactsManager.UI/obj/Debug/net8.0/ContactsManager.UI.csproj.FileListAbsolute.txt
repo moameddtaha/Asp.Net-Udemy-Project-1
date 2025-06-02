@@ -440,3 +440,6 @@ C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.U
 C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\obj\Debug\net8.0\ContactsManager.UI.pdb
 C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\obj\Debug\net8.0\ContactsManager.UI.genruntimeconfig.cache
 C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\obj\Debug\net8.0\ref\ContactsManager.UI.dll
+C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

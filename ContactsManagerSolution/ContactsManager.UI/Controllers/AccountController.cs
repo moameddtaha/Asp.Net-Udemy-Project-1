@@ -93,7 +93,7 @@ namespace ContactsManager.UI.Controllers
 
             if (result.Succeeded)
             {
-                if(!string.IsNullOrEmpty(ReturnUrl) && Url.IsLocalUrl(ReturnUrl))
+                if (!string.IsNullOrEmpty(ReturnUrl) && Url.IsLocalUrl(ReturnUrl))
                 {
                     return LocalRedirect(ReturnUrl);
                 }
@@ -110,6 +110,19 @@ namespace ContactsManager.UI.Controllers
         {
             await _signInManager.SignOutAsync();
             return RedirectToAction(nameof(PersonsController.Index), "Persons");
+        }
+
+        public async Task<IActionResult> IsEmailAlreadyRegistered(string email)
+        {
+            var user = await _userManager.FindByEmailAsync(email);
+            if (user == null)
+            {
+                return Json(true); // Email is not registered
+            }
+            else
+            {
+                return Json(false); // Email is already registered
+            }
         }
     }
 }
