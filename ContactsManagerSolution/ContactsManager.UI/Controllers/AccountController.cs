@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ContactsManager.UI.Controllers
 {
-    [AllowAnonymous] // Allow anonymous access to all actions in this controller
+    //[AllowAnonymous] // Allow anonymous access to all actions in this controller
     public class AccountController : Controller
     {
         private readonly UserManager<ApplicationUser> _userManager;
@@ -23,12 +23,14 @@ namespace ContactsManager.UI.Controllers
         }
 
         [HttpGet]
+        [Authorize("NotAuthorized")] // Custom authorization policy to check if the user is not authorized
         public IActionResult Register()
         {
             return View();
         }
 
         [HttpPost]
+        [Authorize("NotAuthorized")]
         public async Task<IActionResult> Register(RegisterDTO registerDTO)
         {
             // Check for validation erros
@@ -93,12 +95,14 @@ namespace ContactsManager.UI.Controllers
         }
 
         [HttpGet]
+        [Authorize("NotAuthorized")]
         public IActionResult Login()
         {
             return View();
         }
 
         [HttpPost]
+        [Authorize("NotAuthorized")]
         public async Task<IActionResult> Login(LoginDTO loginDTO, string? ReturnUrl)
         {
             if (!ModelState.IsValid)
@@ -143,6 +147,7 @@ namespace ContactsManager.UI.Controllers
             return View(loginDTO);
         }
 
+        [Authorize]
         public async Task<IActionResult> Logout()
         {
             await _signInManager.SignOutAsync();

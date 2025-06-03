@@ -11,6 +11,7 @@ using ContactManager.Infrastructure.Repositories;
 using ServiceContracts;
 using Services;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.CodeAnalysis.CSharp.Syntax;
 
 namespace CRUDExample
 {
@@ -82,6 +83,14 @@ namespace CRUDExample
             {
                 options.FallbackPolicy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser()
                     .Build(); // Enforeces authorization policy (user must be authenticated) for all action methods.
+
+                options.AddPolicy("NotAuthorized", policy =>
+                {
+                    policy.RequireAssertion(context =>
+                    {
+                        return !context.User.Identity.IsAuthenticated;
+                    });
+                });
             });
 
             services.ConfigureApplicationCookie(options =>
