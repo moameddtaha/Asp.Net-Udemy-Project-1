@@ -119,6 +119,17 @@ namespace ContactsManager.UI.Controllers
 
             if (result.Succeeded)
             {
+                // Admin
+                ApplicationUser user = await _userManager.FindByEmailAsync(loginDTO.Email);
+                if(user != null)
+                {
+                    if(await _userManager.IsInRoleAsync(user, UserTypeOptions.Admin.ToString()))
+                    {
+                        // Redirect to Admin Dashboard
+                        return RedirectToAction("Index", "Home", new {area = "admin"});
+                    }
+                }
+
                 if (!string.IsNullOrEmpty(ReturnUrl) && Url.IsLocalUrl(ReturnUrl))
                 {
                     return LocalRedirect(ReturnUrl);

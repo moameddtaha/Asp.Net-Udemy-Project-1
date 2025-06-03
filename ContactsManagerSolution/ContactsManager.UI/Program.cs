@@ -55,6 +55,10 @@ app.MapControllers(); // Execute the filter pipline (action + filter)
 
 // Conventional Routing
 app.MapControllerRoute(
+    name: "areas",
+    pattern: "{area:exists}/{controller=Home}/{action=Index}"); // Eg: Admin/Home/Index
+
+app.MapControllerRoute(
     name: "default",
     pattern: "{controller}/{action}/{id?}"); // Eg: /Persons/Index/1
 
