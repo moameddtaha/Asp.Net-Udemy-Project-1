@@ -12,6 +12,7 @@ using ServiceContracts;
 using Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.CodeAnalysis.CSharp.Syntax;
+using Microsoft.AspNetCore.Mvc;
 
 namespace CRUDExample
 {
@@ -35,6 +36,8 @@ namespace CRUDExample
                     Value = "my-value-from-global",
                     Order = 2
                 });
+
+                options.Filters.Add(new AutoValidateAntiforgeryTokenAttribute());
             });
 
             // Add services into IoC container

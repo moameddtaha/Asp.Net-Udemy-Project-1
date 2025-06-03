@@ -1,0 +1,207 @@
+2025-06-03 17:58:41.472 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-03 17:58:41.483 +03:00 [INF] Hosting environment: Development
+2025-06-03 17:58:41.486 +03:00 [INF] Content root path: C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI
+2025-06-03 17:59:22.307 +03:00 [INF] User profile is available. Using 'C:\Users\moham\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-06-03 17:59:22.531 +03:00 [INF] Now listening on: https://localhost:5124
+2025-06-03 17:59:23.218 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/ - null null
+2025-06-03 17:59:23.279 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /
+2025-06-03 17:59:23.479 +03:00 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-06-03 17:59:23.514 +03:00 [INF] Route matched with {action = "Index", controller = "Persons", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller CRUDExample.Controllers.PersonsController (ContactsManager.UI).
+2025-06-03 17:59:23.534 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-06-03 17:59:23.536 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-06-03 17:59:23.537 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-06-03 17:59:23.539 +03:00 [INF] PersonsListActionFilter.OnActionExecuting method
+2025-06-03 17:59:23.543 +03:00 [INF] Index action method of PersonsController
+2025-06-03 17:59:23.550 +03:00 [INF] GetFilteredPersons of PersonsService
+2025-06-03 17:59:23.553 +03:00 [INF] GetAllPersons of PersonsRepository
+2025-06-03 17:59:24.737 +03:00 [INF] Executed DbCommand (18ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[PersonID], [p].[Address], [p].[CountryID], [p].[DateOfBirth], [p].[Email], [p].[Gender], [p].[PersonName], [p].[ReceiveNewsLetter], [p].[TaxIdentificationNumber], [c].[CountryId], [c].[CountryName]
+FROM [Persons] AS [p]
+LEFT JOIN [Countries] AS [c] ON [p].[CountryID] = [c].[CountryId]
+2025-06-03 17:59:24.839 +03:00 [INF] Time for Filtered Persons from Database completed in 1286.2 ms
+2025-06-03 17:59:24.853 +03:00 [INF] GetSortedPersons of PersonsService
+2025-06-03 17:59:24.868 +03:00 [INF] PersonsListActionFilter.OnActionExecuted method
+2025-06-03 17:59:24.911 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-06-03 17:59:24.913 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-06-03 17:59:24.915 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-06-03 17:59:24.921 +03:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2025-06-03 17:59:24.930 +03:00 [INF] Executing ViewResult, running view Index.
+2025-06-03 17:59:25.142 +03:00 [INF] Executed ViewResult - view Index executed in 213.0496ms.
+2025-06-03 17:59:25.146 +03:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - after
+2025-06-03 17:59:25.149 +03:00 [INF] Executed action CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI) in 1632.4033ms
+2025-06-03 17:59:25.152 +03:00 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-06-03 17:59:25.155 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Tue, 03 Jun 2025 14:59:24 GMT
+Server: Kestrel
+Last-Modified: 2025-06-03 17:59
+my-key-from-global: [Redacted]
+my-key-from-action: [Redacted]
+my-key-from-controller: [Redacted]
+2025-06-03 17:59:25.159 +03:00 [INF] HTTP GET / responded 200 in 1884.8750 ms
+2025-06-03 17:59:25.175 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/ - 200 null text/html; charset=utf-8 1966.1878ms
+2025-06-03 17:59:25.184 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/_vs/browserLink - null null
+2025-06-03 17:59:25.184 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-03 17:59:25.202 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 19.4077ms
+2025-06-03 17:59:25.233 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 50.8708ms
+2025-06-03 17:59:25.396 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/favicon.ico - null null
+2025-06-03 17:59:25.401 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /favicon.ico
+2025-06-03 17:59:25.416 +03:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\wwwroot\favicon.ico'
+2025-06-03 17:59:25.418 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: image/x-icon
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Thu, 06 Mar 2025 15:06:59 GMT
+Content-Length: 5430
+2025-06-03 17:59:25.419 +03:00 [INF] HTTP GET /favicon.ico responded 200 in 18.6938 ms
+2025-06-03 17:59:25.422 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/favicon.ico - 499 5430 image/x-icon 25.9209ms
+2025-06-03 17:59:26.965 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/Account/Logout - null null
+2025-06-03 17:59:26.979 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /Account/Logout
+2025-06-03 17:59:26.992 +03:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Logout (ContactsManager.UI)'
+2025-06-03 17:59:27.002 +03:00 [INF] Route matched with {action = "Logout", controller = "Account", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Logout() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-06-03 17:59:27.006 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-06-03 17:59:27.015 +03:00 [INF] AuthenticationScheme: Identity.Application signed out.
+2025-06-03 17:59:27.018 +03:00 [INF] AuthenticationScheme: Identity.External signed out.
+2025-06-03 17:59:27.020 +03:00 [INF] AuthenticationScheme: Identity.TwoFactorUserId signed out.
+2025-06-03 17:59:27.021 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-06-03 17:59:27.023 +03:00 [INF] Executing RedirectResult, redirecting to /Persons/Index.
+2025-06-03 17:59:27.025 +03:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Logout (ContactsManager.UI) in 20.2443ms
+2025-06-03 17:59:27.027 +03:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Logout (ContactsManager.UI)'
+2025-06-03 17:59:27.030 +03:00 [INF] Response:
+StatusCode: 302
+Cache-Control: [Redacted]
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Location: /Persons/Index
+Pragma: [Redacted]
+Set-Cookie: [Redacted]
+my-key-from-global: [Redacted]
+2025-06-03 17:59:27.031 +03:00 [INF] HTTP GET /Account/Logout responded 302 in 51.8489 ms
+2025-06-03 17:59:27.034 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/Account/Logout - 302 0 null 70.461ms
+2025-06-03 17:59:27.041 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/Persons/Index - null null
+2025-06-03 17:59:27.052 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /Persons/Index
+2025-06-03 17:59:27.057 +03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-06-03 17:59:27.064 +03:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2025-06-03 17:59:27.066 +03:00 [INF] Response:
+StatusCode: 302
+Location: https://localhost:5124/Account/Login?ReturnUrl=%2FPersons%2FIndex
+2025-06-03 17:59:27.067 +03:00 [INF] HTTP GET /Persons/Index responded 302 in 14.9120 ms
+2025-06-03 17:59:27.070 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/Persons/Index - 302 0 null 29.2652ms
+2025-06-03 17:59:27.075 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/Account/Login?ReturnUrl=%2FPersons%2FIndex - null null
+2025-06-03 17:59:27.081 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /Account/Login
+2025-06-03 17:59:27.085 +03:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2025-06-03 17:59:27.088 +03:00 [INF] Route matched with {action = "Login", controller = "Account", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-06-03 17:59:27.095 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-06-03 17:59:27.097 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-06-03 17:59:27.100 +03:00 [INF] Executing ViewResult, running view Login.
+2025-06-03 17:59:27.164 +03:00 [INF] Executed ViewResult - view Login executed in 65.1506ms.
+2025-06-03 17:59:27.167 +03:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 75.8548ms
+2025-06-03 17:59:27.169 +03:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2025-06-03 17:59:27.171 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Tue, 03 Jun 2025 14:59:26 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+my-key-from-global: [Redacted]
+2025-06-03 17:59:27.172 +03:00 [INF] HTTP GET /Account/Login responded 200 in 90.7658 ms
+2025-06-03 17:59:27.175 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/Account/Login?ReturnUrl=%2FPersons%2FIndex - 200 null text/html; charset=utf-8 99.5146ms
+2025-06-03 17:59:27.212 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/_vs/browserLink - null null
+2025-06-03 17:59:27.213 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-03 17:59:27.227 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 14.618ms
+2025-06-03 17:59:27.244 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 32.5304ms
+2025-06-03 17:59:27.309 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/favicon.ico - null null
+2025-06-03 17:59:27.313 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /favicon.ico
+2025-06-03 17:59:27.326 +03:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\wwwroot\favicon.ico'
+2025-06-03 17:59:27.328 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: image/x-icon
+Date: Tue, 03 Jun 2025 14:59:26 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Thu, 06 Mar 2025 15:06:59 GMT
+Content-Length: 5430
+2025-06-03 17:59:27.329 +03:00 [INF] HTTP GET /favicon.ico responded 200 in 16.8919 ms
+2025-06-03 17:59:27.333 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/favicon.ico - 200 5430 image/x-icon 24.1686ms
+2025-06-03 17:59:34.130 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/Account/Register - null null
+2025-06-03 17:59:34.137 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /Account/Register
+2025-06-03 17:59:34.139 +03:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-06-03 17:59:34.143 +03:00 [INF] Route matched with {action = "Register", controller = "Account", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-06-03 17:59:34.156 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-06-03 17:59:34.157 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-06-03 17:59:34.159 +03:00 [INF] Executing ViewResult, running view Register.
+2025-06-03 17:59:34.200 +03:00 [INF] Executed ViewResult - view Register executed in 41.4938ms.
+2025-06-03 17:59:34.203 +03:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI) in 58.0473ms
+2025-06-03 17:59:34.204 +03:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-06-03 17:59:34.206 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Tue, 03 Jun 2025 14:59:33 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+my-key-from-global: [Redacted]
+2025-06-03 17:59:34.207 +03:00 [INF] HTTP GET /Account/Register responded 200 in 70.5397 ms
+2025-06-03 17:59:34.211 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/Account/Register - 200 null text/html; charset=utf-8 81.693ms
+2025-06-03 17:59:34.257 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-03 17:59:34.261 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 4.567ms
+2025-06-03 17:59:34.262 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/_vs/browserLink - null null
+2025-06-03 17:59:34.281 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 19.0349ms
+2025-06-03 17:59:34.342 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/favicon.ico - null null
+2025-06-03 17:59:34.345 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /favicon.ico
+2025-06-03 17:59:34.348 +03:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\wwwroot\favicon.ico'
+2025-06-03 17:59:34.351 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: image/x-icon
+Date: Tue, 03 Jun 2025 14:59:33 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Thu, 06 Mar 2025 15:06:59 GMT
+Content-Length: 5430
+2025-06-03 17:59:34.351 +03:00 [INF] HTTP GET /favicon.ico responded 200 in 6.2000 ms
+2025-06-03 17:59:34.354 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/favicon.ico - 200 5430 image/x-icon 12.0603ms

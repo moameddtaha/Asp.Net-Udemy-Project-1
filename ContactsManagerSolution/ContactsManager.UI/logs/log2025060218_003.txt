@@ -1,3 +1,0 @@
-2025-06-02 18:56:10.706 +03:00 [INF] Application started. Press Ctrl+C to shut down.
-2025-06-02 18:56:10.722 +03:00 [INF] Hosting environment: Development
-2025-06-02 18:56:10.724 +03:00 [INF] Content root path: C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI
