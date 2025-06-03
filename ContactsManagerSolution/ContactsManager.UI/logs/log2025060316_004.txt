@@ -1,0 +1,171 @@
+2025-06-03 16:54:04.272 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-03 16:54:04.285 +03:00 [INF] Hosting environment: Development
+2025-06-03 16:54:04.287 +03:00 [INF] Content root path: C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI
+2025-06-03 16:54:40.446 +03:00 [INF] User profile is available. Using 'C:\Users\moham\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-06-03 16:54:40.663 +03:00 [INF] Now listening on: https://localhost:5124
+2025-06-03 16:54:41.396 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/ - null null
+2025-06-03 16:54:41.454 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /
+2025-06-03 16:54:41.665 +03:00 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-06-03 16:54:41.709 +03:00 [INF] Route matched with {action = "Index", controller = "Persons", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller CRUDExample.Controllers.PersonsController (ContactsManager.UI).
+2025-06-03 16:54:41.728 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-06-03 16:54:41.730 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-06-03 16:54:41.731 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-06-03 16:54:41.733 +03:00 [INF] PersonsListActionFilter.OnActionExecuting method
+2025-06-03 16:54:41.737 +03:00 [INF] Index action method of PersonsController
+2025-06-03 16:54:41.743 +03:00 [INF] GetFilteredPersons of PersonsService
+2025-06-03 16:54:41.746 +03:00 [INF] GetAllPersons of PersonsRepository
+2025-06-03 16:54:42.934 +03:00 [INF] Executed DbCommand (17ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[PersonID], [p].[Address], [p].[CountryID], [p].[DateOfBirth], [p].[Email], [p].[Gender], [p].[PersonName], [p].[ReceiveNewsLetter], [p].[TaxIdentificationNumber], [c].[CountryId], [c].[CountryName]
+FROM [Persons] AS [p]
+LEFT JOIN [Countries] AS [c] ON [p].[CountryID] = [c].[CountryId]
+2025-06-03 16:54:43.027 +03:00 [INF] Time for Filtered Persons from Database completed in 1282.2 ms
+2025-06-03 16:54:43.039 +03:00 [INF] GetSortedPersons of PersonsService
+2025-06-03 16:54:43.050 +03:00 [INF] PersonsListActionFilter.OnActionExecuted method
+2025-06-03 16:54:43.082 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-06-03 16:54:43.084 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-06-03 16:54:43.085 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-06-03 16:54:43.089 +03:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2025-06-03 16:54:43.097 +03:00 [INF] Executing ViewResult, running view Index.
+2025-06-03 16:54:43.288 +03:00 [INF] Executed ViewResult - view Index executed in 191.678ms.
+2025-06-03 16:54:43.292 +03:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - after
+2025-06-03 16:54:43.297 +03:00 [INF] Executed action CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI) in 1584.5287ms
+2025-06-03 16:54:43.302 +03:00 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-06-03 16:54:43.306 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Tue, 03 Jun 2025 13:54:42 GMT
+Server: Kestrel
+Last-Modified: 2025-06-03 16:54
+my-key-from-global: [Redacted]
+my-key-from-action: [Redacted]
+my-key-from-controller: [Redacted]
+2025-06-03 16:54:43.311 +03:00 [INF] HTTP GET / responded 200 in 1860.9126 ms
+2025-06-03 16:54:43.328 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/StyleSheet.css - null null
+2025-06-03 16:54:43.328 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-03 16:54:43.330 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/_vs/browserLink - null null
+2025-06-03 16:54:43.344 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /StyleSheet.css
+2025-06-03 16:54:43.340 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/ - 200 null text/html; charset=utf-8 1953.6741ms
+2025-06-03 16:54:43.362 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 36.7943ms
+2025-06-03 16:54:43.384 +03:00 [INF] Sending file. Request path: '/StyleSheet.css'. Physical path: 'C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\wwwroot\StyleSheet.css'
+2025-06-03 16:54:43.386 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/css
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Thu, 27 Feb 2025 10:10:49 GMT
+Content-Length: 11475
+2025-06-03 16:54:43.389 +03:00 [INF] HTTP GET /StyleSheet.css responded 200 in 44.7090 ms
+2025-06-03 16:54:43.396 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/StyleSheet.css - 499 11475 text/css 70.9101ms
+2025-06-03 16:54:43.414 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 84.81ms
+2025-06-03 16:54:43.656 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/favicon.ico - null null
+2025-06-03 16:54:43.660 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /favicon.ico
+2025-06-03 16:54:43.672 +03:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\wwwroot\favicon.ico'
+2025-06-03 16:54:43.674 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: image/x-icon
+Date: Tue, 03 Jun 2025 13:54:43 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Thu, 06 Mar 2025 15:06:59 GMT
+Content-Length: 5430
+2025-06-03 16:54:43.675 +03:00 [INF] HTTP GET /favicon.ico responded 200 in 15.3368 ms
+2025-06-03 16:54:43.677 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/favicon.ico - 200 5430 image/x-icon 21.7858ms
+2025-06-03 16:54:59.158 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-03 16:54:59.164 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 6.1612ms
+2025-06-03 16:54:59.359 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/favicon.ico - null null
+2025-06-03 16:54:59.364 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /favicon.ico
+2025-06-03 16:54:59.367 +03:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\wwwroot\favicon.ico'
+2025-06-03 16:54:59.369 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: image/x-icon
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Thu, 06 Mar 2025 15:06:59 GMT
+Content-Length: 5430
+2025-06-03 16:54:59.371 +03:00 [INF] HTTP GET /favicon.ico responded 200 in 7.0276 ms
+2025-06-03 16:54:59.373 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/favicon.ico - 499 5430 image/x-icon 14.5964ms
+2025-06-03 16:55:08.462 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/ - null null
+2025-06-03 16:55:08.470 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /
+2025-06-03 16:55:08.478 +03:00 [INF] Executing endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-06-03 16:55:08.481 +03:00 [INF] Route matched with {action = "Index", controller = "Persons", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, System.String, System.String, ServiceContracts.Enums.SortOrderOptions) on controller CRUDExample.Controllers.PersonsController (ContactsManager.UI).
+2025-06-03 16:55:08.484 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-06-03 16:55:08.485 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-06-03 16:55:08.487 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-06-03 16:55:08.488 +03:00 [INF] PersonsListActionFilter.OnActionExecuting method
+2025-06-03 16:55:08.489 +03:00 [INF] Index action method of PersonsController
+2025-06-03 16:55:08.490 +03:00 [INF] GetFilteredPersons of PersonsService
+2025-06-03 16:55:08.491 +03:00 [INF] GetAllPersons of PersonsRepository
+2025-06-03 16:55:08.508 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[PersonID], [p].[Address], [p].[CountryID], [p].[DateOfBirth], [p].[Email], [p].[Gender], [p].[PersonName], [p].[ReceiveNewsLetter], [p].[TaxIdentificationNumber], [c].[CountryId], [c].[CountryName]
+FROM [Persons] AS [p]
+LEFT JOIN [Countries] AS [c] ON [p].[CountryID] = [c].[CountryId]
+2025-06-03 16:55:08.513 +03:00 [INF] Time for Filtered Persons from Database completed in 22.4 ms
+2025-06-03 16:55:08.515 +03:00 [INF] GetSortedPersons of PersonsService
+2025-06-03 16:55:08.516 +03:00 [INF] PersonsListActionFilter.OnActionExecuted method
+2025-06-03 16:55:08.517 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-06-03 16:55:08.518 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-06-03 16:55:08.519 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-06-03 16:55:08.520 +03:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - before
+2025-06-03 16:55:08.522 +03:00 [INF] Executing ViewResult, running view Index.
+2025-06-03 16:55:08.532 +03:00 [INF] Executed ViewResult - view Index executed in 10.0027ms.
+2025-06-03 16:55:08.534 +03:00 [INF] PersonsListResultFilter.OnResultExecutionAsync - after
+2025-06-03 16:55:08.538 +03:00 [INF] Executed action CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI) in 55.1104ms
+2025-06-03 16:55:08.540 +03:00 [INF] Executed endpoint 'CRUDExample.Controllers.PersonsController.Index (ContactsManager.UI)'
+2025-06-03 16:55:08.542 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Tue, 03 Jun 2025 13:55:07 GMT
+Server: Kestrel
+Last-Modified: 2025-06-03 16:55
+my-key-from-global: [Redacted]
+my-key-from-action: [Redacted]
+my-key-from-controller: [Redacted]
+2025-06-03 16:55:08.543 +03:00 [INF] HTTP GET / responded 200 in 73.2789 ms
+2025-06-03 16:55:08.547 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/ - 200 null text/html; charset=utf-8 85.5842ms
+2025-06-03 16:55:08.571 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/_vs/browserLink - null null
+2025-06-03 16:55:08.572 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-03 16:55:08.580 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 7.9541ms
+2025-06-03 16:55:08.595 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 23.9739ms
+2025-06-03 16:55:08.719 +03:00 [INF] Request starting HTTP/2 GET https://localhost:5124/favicon.ico - null null
+2025-06-03 16:55:08.724 +03:00 [INF] Request:
+Protocol: HTTP/2
+Method: GET
+Scheme: https
+PathBase: 
+Path: /favicon.ico
+2025-06-03 16:55:08.728 +03:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\wwwroot\favicon.ico'
+2025-06-03 16:55:08.732 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: image/x-icon
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Thu, 06 Mar 2025 15:06:59 GMT
+Content-Length: 5430
+2025-06-03 16:55:08.734 +03:00 [INF] HTTP GET /favicon.ico responded 200 in 9.9819 ms
+2025-06-03 16:55:08.737 +03:00 [INF] Request finished HTTP/2 GET https://localhost:5124/favicon.ico - 499 5430 image/x-icon 18.3843ms
