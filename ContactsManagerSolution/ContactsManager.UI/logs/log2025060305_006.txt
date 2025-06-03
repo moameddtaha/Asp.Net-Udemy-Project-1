@@ -1,0 +1,146 @@
+2025-06-03 05:55:01.889 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-03 05:55:01.900 +03:00 [INF] Hosting environment: Development
+2025-06-03 05:55:01.902 +03:00 [INF] Content root path: C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI
+2025-06-03 05:55:11.839 +03:00 [INF] User profile is available. Using 'C:\Users\moham\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-06-03 05:55:12.029 +03:00 [INF] Now listening on: http://localhost:5124
+2025-06-03 05:55:12.917 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/ - null null
+2025-06-03 05:55:12.986 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+2025-06-03 05:55:13.024 +03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-06-03 05:55:13.041 +03:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2025-06-03 05:55:13.044 +03:00 [INF] Response:
+StatusCode: 302
+Location: http://localhost:5124/Account/Login?ReturnUrl=%2F
+2025-06-03 05:55:13.048 +03:00 [INF] HTTP GET / responded 302 in 67.3867 ms
+2025-06-03 05:55:13.058 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/ - 302 0 null 149.9596ms
+2025-06-03 05:55:13.065 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/Account/Login?ReturnUrl=%2F - null null
+2025-06-03 05:55:13.074 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Login
+2025-06-03 05:55:13.085 +03:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2025-06-03 05:55:13.113 +03:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-06-03 05:55:13.224 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-06-03 05:55:13.226 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-06-03 05:55:13.238 +03:00 [INF] Executing ViewResult, running view Login.
+2025-06-03 05:55:13.422 +03:00 [INF] Executed ViewResult - view Login executed in 190.1228ms.
+2025-06-03 05:55:13.425 +03:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 308.0705ms
+2025-06-03 05:55:13.427 +03:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2025-06-03 05:55:13.429 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Tue, 03 Jun 2025 02:55:13 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+my-key-from-global: [Redacted]
+2025-06-03 05:55:13.430 +03:00 [INF] HTTP GET /Account/Login responded 200 in 356.0799 ms
+2025-06-03 05:55:13.435 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/Account/Login?ReturnUrl=%2F - 200 null text/html; charset=utf-8 370.5294ms
+2025-06-03 05:55:13.454 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-03 05:55:13.457 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_vs/browserLink - null null
+2025-06-03 05:55:13.460 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 6.3465ms
+2025-06-03 05:55:13.491 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.2293ms
+2025-06-03 05:55:13.609 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/favicon.ico - null null
+2025-06-03 05:55:13.613 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /favicon.ico
+2025-06-03 05:55:13.635 +03:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\wwwroot\favicon.ico'
+2025-06-03 05:55:13.638 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: image/x-icon
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Thu, 06 Mar 2025 15:06:59 GMT
+Content-Length: 5430
+2025-06-03 05:55:13.639 +03:00 [INF] HTTP GET /favicon.ico responded 200 in 26.5002 ms
+2025-06-03 05:55:13.642 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/favicon.ico - 499 5430 image/x-icon 32.5972ms
+2025-06-03 05:55:15.449 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/Account/Register - null null
+2025-06-03 05:55:15.459 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Register
+2025-06-03 05:55:15.464 +03:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-06-03 05:55:15.468 +03:00 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-06-03 05:55:15.479 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-06-03 05:55:15.480 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-06-03 05:55:15.482 +03:00 [INF] Executing ViewResult, running view Register.
+2025-06-03 05:55:15.525 +03:00 [INF] Executed ViewResult - view Register executed in 44.0282ms.
+2025-06-03 05:55:15.528 +03:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI) in 57.7866ms
+2025-06-03 05:55:15.530 +03:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-06-03 05:55:15.532 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Tue, 03 Jun 2025 02:55:15 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+my-key-from-global: [Redacted]
+2025-06-03 05:55:15.534 +03:00 [INF] HTTP GET /Account/Register responded 200 in 74.9469 ms
+2025-06-03 05:55:15.536 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/Account/Register - 200 null text/html; charset=utf-8 87.63ms
+2025-06-03 05:55:15.574 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_vs/browserLink - null null
+2025-06-03 05:55:15.579 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-03 05:55:15.584 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 5.0457ms
+2025-06-03 05:55:15.595 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 21.3949ms
+2025-06-03 05:55:15.655 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/favicon.ico - null null
+2025-06-03 05:55:15.661 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /favicon.ico
+2025-06-03 05:55:15.669 +03:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\wwwroot\favicon.ico'
+2025-06-03 05:55:15.671 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: image/x-icon
+Date: Tue, 03 Jun 2025 02:55:15 GMT
+Server: Kestrel
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Thu, 06 Mar 2025 15:06:59 GMT
+Content-Length: 5430
+2025-06-03 05:55:15.674 +03:00 [INF] HTTP GET /favicon.ico responded 200 in 12.8835 ms
+2025-06-03 05:55:15.677 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/favicon.ico - 200 5430 image/x-icon 22.1701ms
+2025-06-03 05:55:31.154 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/Account/Register - null null
+2025-06-03 05:55:31.163 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Register
+2025-06-03 05:55:31.165 +03:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-06-03 05:55:31.167 +03:00 [INF] Route matched with {action = "Register", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Register() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-06-03 05:55:31.179 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-06-03 05:55:31.180 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-06-03 05:55:31.182 +03:00 [INF] Executing ViewResult, running view Register.
+2025-06-03 05:55:31.186 +03:00 [INF] Executed ViewResult - view Register executed in 4.3851ms.
+2025-06-03 05:55:31.188 +03:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI) in 19.3799ms
+2025-06-03 05:55:31.190 +03:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Register (ContactsManager.UI)'
+2025-06-03 05:55:31.191 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Tue, 03 Jun 2025 02:55:30 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+my-key-from-global: [Redacted]
+2025-06-03 05:55:31.193 +03:00 [INF] HTTP GET /Account/Register responded 200 in 30.1440 ms
+2025-06-03 05:55:31.196 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/Account/Register - 200 null text/html; charset=utf-8 41.6907ms
+2025-06-03 05:55:31.218 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_vs/browserLink - null null
+2025-06-03 05:55:31.219 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-03 05:55:31.230 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 10.685ms
+2025-06-03 05:55:31.241 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 22.8315ms

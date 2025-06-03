@@ -1,0 +1,67 @@
+2025-06-03 05:27:21.049 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-03 05:27:21.060 +03:00 [INF] Hosting environment: Development
+2025-06-03 05:27:21.062 +03:00 [INF] Content root path: C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI
+2025-06-03 05:28:53.438 +03:00 [INF] User profile is available. Using 'C:\Users\moham\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-06-03 05:28:53.543 +03:00 [INF] Now listening on: http://localhost:5124
+2025-06-03 05:28:53.862 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/ - null null
+2025-06-03 05:28:53.895 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /
+2025-06-03 05:28:53.925 +03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-06-03 05:28:53.932 +03:00 [INF] AuthenticationScheme: Identity.Application was challenged.
+2025-06-03 05:28:53.934 +03:00 [INF] Response:
+StatusCode: 302
+Location: http://localhost:5124/Account/Login?ReturnUrl=%2F
+2025-06-03 05:28:53.937 +03:00 [INF] HTTP GET / responded 302 in 44.8052 ms
+2025-06-03 05:28:53.944 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/ - 302 0 null 82.3177ms
+2025-06-03 05:28:53.951 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/Account/Login?ReturnUrl=%2F - null null
+2025-06-03 05:28:53.957 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /Account/Login
+2025-06-03 05:28:53.962 +03:00 [INF] Executing endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2025-06-03 05:28:53.986 +03:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller ContactsManager.UI.Controllers.AccountController (ContactsManager.UI).
+2025-06-03 05:28:54.103 +03:00 [INF] Before logic - ResponseHeaderActionFilter
+2025-06-03 05:28:54.105 +03:00 [INF] After logic - ResponseHeaderActionFilter
+2025-06-03 05:28:54.119 +03:00 [INF] Executing ViewResult, running view Login.
+2025-06-03 05:28:54.261 +03:00 [INF] Executed ViewResult - view Login executed in 149.1161ms.
+2025-06-03 05:28:54.263 +03:00 [INF] Executed action ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI) in 273.9457ms
+2025-06-03 05:28:54.265 +03:00 [INF] Executed endpoint 'ContactsManager.UI.Controllers.AccountController.Login (ContactsManager.UI)'
+2025-06-03 05:28:54.267 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: text/html; charset=utf-8
+Date: Tue, 03 Jun 2025 02:28:53 GMT
+Server: Kestrel
+Cache-Control: [Redacted]
+Pragma: [Redacted]
+Transfer-Encoding: chunked
+my-key-from-global: [Redacted]
+2025-06-03 05:28:54.268 +03:00 [INF] HTTP GET /Account/Login responded 200 in 311.0155 ms
+2025-06-03 05:28:54.274 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/Account/Login?ReturnUrl=%2F - 200 null text/html; charset=utf-8 322.5246ms
+2025-06-03 05:28:54.335 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-03 05:28:54.340 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_framework/aspnetcore-browser-refresh.js - 200 16521 application/javascript; charset=utf-8 4.5155ms
+2025-06-03 05:28:54.344 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/_vs/browserLink - null null
+2025-06-03 05:28:54.367 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/_vs/browserLink - 200 null text/javascript; charset=UTF-8 23.4961ms
+2025-06-03 05:28:54.539 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5124/favicon.ico - null null
+2025-06-03 05:28:54.543 +03:00 [INF] Request:
+Protocol: HTTP/1.1
+Method: GET
+Scheme: http
+PathBase: 
+Path: /favicon.ico
+2025-06-03 05:28:54.552 +03:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\moham\Desktop\crud-operations\ContactsManagerSolution\ContactsManager.UI\wwwroot\favicon.ico'
+2025-06-03 05:28:54.554 +03:00 [INF] Response:
+StatusCode: 200
+Content-Type: image/x-icon
+Accept-Ranges: bytes
+ETag: [Redacted]
+Last-Modified: Thu, 06 Mar 2025 15:06:59 GMT
+Content-Length: 5430
+2025-06-03 05:28:54.555 +03:00 [INF] HTTP GET /favicon.ico responded 200 in 12.0031 ms
+2025-06-03 05:28:54.557 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5124/favicon.ico - 499 5430 image/x-icon 17.4174ms
